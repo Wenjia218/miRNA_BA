@@ -1,0 +1,8 @@
+A summary of text-mining results.
+PMCID found_synonym_words counts_of_synonym_words positions_of_words_in_number_of_paragraph.number_of_line
+
+unique_FORM: results of a text-mining with synonym list of different forms of miRNA. (miRNA, microRNA,....)
+
+unique_mir: results of text-mining with a mirna synonym list with miRNA ids and sequences
+
+unique_plant: results of text-mining with a plant taxonomy synonym list. ( the old list)
