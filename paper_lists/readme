@@ -1,0 +1,6 @@
+mir_plant_papers:
+PMC papers where at least a plant specie was mentioned and at least three times of miRNA
+
+strick_mir_plant_papers:
+PMC papers where at least a plant specie was mentioned and at least three times of miRNA
+plus at least a word of miRNA/microRNA/... appears in the topic or abstract
