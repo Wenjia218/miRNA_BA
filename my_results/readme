@@ -1,0 +1,10 @@
+Here are the descriptions of files of myresults:
+
+db.txt: A database containing miRNA sequences as objects/keys, all the identities of miRNAs from three miRNA databases:
+miRbase, miRGeneDB and PmiREN that correspond to the sequence and all the PMC papers which contain the sequence or
+at least one of the miRNA ids that were found by text-mining.
+
+db_mirplants: A database with results of text-mining containing different plant species and PMC papers IDs that are not only
+related to this specie but also are related to miRNA
+
+plant_mir: plant species with their possible miRNAs, according to the text-mining results
