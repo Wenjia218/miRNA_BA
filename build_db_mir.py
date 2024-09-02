@@ -37,6 +37,7 @@ motifs3 = {}
 with open('data/all_plant_mirnas.txt') as f:
     lines = f.readlines()
     for line in lines:
+        line = line.strip("\n")
         seq = line.split(": ")[0]
         id = line.split(": ")[1]
         if seq not in motifs3:

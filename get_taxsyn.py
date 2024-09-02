@@ -2,7 +2,7 @@
 import csv
 # Opening the csv file in read mode
 data = []
-filename = "data/names.dmp"
+filename = "syn/ncbitaxon.syn"
 f = open(filename, encoding="utf-8")
 lines = f.readlines()
 row_number = 1
@@ -21,10 +21,10 @@ for line in lines:
 print(data)
 
 
-'''
-with open('syn/taxonomy_new.syn', 'w') as f:
+
+with open('syn/ncbitaxon_plants.syn', 'w') as f:
     for line in syn_list:
         f.write(line)
         f.write('\n')
 
-'''
+
