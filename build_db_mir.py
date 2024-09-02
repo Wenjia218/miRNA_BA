@@ -37,6 +37,7 @@ motifs3 = {}
 with open('data/all_plant_mirnas.txt') as f:
     lines = f.readlines()
     for line in lines:
+        line = line.strip("\n")
         seq = line.split(": ")[0]
         id = line.split(": ")[1]
         if seq not in motifs3:
@@ -80,7 +81,7 @@ for seq in list_of_sequences:
 
 # add PMC to the database
 PMC_dic = {}
-with open('unique_results/unique_results2_withallwords.txt') as f:
+with open('textmining_resutls/unique_results2_withallwords.txt') as f:
     lines = f.readlines()
     for line in lines:
         list = line.split(" ")

@@ -1,9 +1,8 @@
 import glob
 
-files = glob.glob("results/*.index")
+files = glob.glob("results_taxonomy/*.index")
 plant_dic = {}
 plant_counts = {}
-plant_position = {}
 
 for file in files:
     with open(file, mode='r') as file:
@@ -13,26 +12,23 @@ for file in files:
             PMC = list[0].split(".")[0]
             paragraph = list[0].split(".")[1]
             pos = list[0].split(".")[2]
-            key_word = list[2]
-            if PMC not in plant_dic:
-                plant_dic[PMC] = key_word
-                plant_position[PMC] = ""
-                counts = 0
-            elif key_word not in plant_dic[PMC].split(","):
-                plant_dic[PMC] = plant_dic[PMC] + "," + key_word
-
             position = str(paragraph) + "." + str(pos)
-            if position not in plant_position[PMC].split(","):
-                if plant_position[PMC] != "":
-                    plant_position[PMC] = plant_position[PMC] + "," + position
-                else:
-                    plant_position[PMC] = position
+            key_word = list[2]
+
+            w_line = key_word + "|" + position
+
+            if PMC not in plant_dic:
+                plant_dic[PMC] = w_line
+                counts = 1
+            elif w_line not in plant_dic[PMC].split(","):
+                plant_dic[PMC] = plant_dic[PMC] + "," + w_line
                 counts = counts + 1
+
             plant_counts[PMC] = counts
 
-with open('unique_results/unique_plant_withallwords.txt', 'w') as f:
+with open('textmining_resutls/unique_tax_withallwords.txt', 'w') as f:
     for PMC in plant_dic:
-        f.write(PMC + " " + plant_dic[PMC] + " counts: " + str(plant_counts[PMC]) + " position: " + plant_position[PMC])
+        f.write(PMC + " " + plant_dic[PMC] + " counts: " + str(plant_counts[PMC]))
         f.write('\n')
 
 

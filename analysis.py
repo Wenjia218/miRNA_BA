@@ -1,5 +1,5 @@
 FORM_papers = {}
-with open('unique_results/unique_results3_withallwords.txt', 'r') as f:
+with open('textmining_resutls/unique_results3_withallwords.txt', 'r') as f:
     lines = f.readlines()
     for line in lines:
         line = line.split("\n")[0]

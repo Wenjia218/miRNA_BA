@@ -15,7 +15,7 @@ for name in plant_papers:
 
 
 mirna_papers = {}
-with open('unique_results/unique_results2_withallwords.txt', 'r') as f:
+with open('textmining_resutls/unique_results2_withallwords.txt', 'r') as f:
     lines = f.readlines()
     for line in lines:
         list = line.split(" ")

@@ -1,7 +1,7 @@
 import random
 
 sequence = {}
-filename = "unique_results/unique_results2_withallwords.txt"
+filename = "textmining_resutls/unique_results2_withallwords.txt"
 counts = {}
 papers = []
 f = open(filename, encoding="utf-8")

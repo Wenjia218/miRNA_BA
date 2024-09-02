@@ -1,7 +1,7 @@
 import math
 
 plant_papers = {}
-filename = 'unique_results/unique_results_withallwords.txt'
+filename = 'textmining_resutls/unique_results_withallwords.txt'
 f = open(filename, encoding="utf-8")
 
 lines = f.readlines()
@@ -18,7 +18,7 @@ for line in lines:
 
 '''
 MIR_papers = []
-with open('unique_results/unique_results3.txt', 'r') as f:
+with open('textmining_resutls/unique_results3.txt', 'r') as f:
     lines = f.readlines()
     for line in lines:
         list = line.split(" ")

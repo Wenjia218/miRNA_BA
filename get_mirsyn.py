@@ -104,10 +104,21 @@ for item in motifs_all:
     line_of_ids = ""
     for id_in_list in list_of_ids:
         line_of_ids = line_of_ids + "|" + id_in_list
-    line = item + ": " + item  + "|" + item.replace("U", "T") + line_of_ids
+        if '-3p' in id_in_list:
+            line_of_ids = line_of_ids + "|" + id_in_list.split('-3p')[0]
+        if '-5p' in id_in_list:
+            line_of_ids = line_of_ids + "|" + id_in_list.split('-5p')[0]
+        if '_5p' in id_in_list:
+            line_of_ids = line_of_ids + "|" + id_in_list.split('_5p')[0]
+        if '_3p' in id_in_list:
+            line_of_ids = line_of_ids + "|" + id_in_list.split('_3p')[0]
+    if 'U' in item:
+        line = item + ": " + item  + "|" + item.replace("U", "T") + line_of_ids
+    else:
+        line = item + ": " + item + "|" + item.replace("T", "U") + line_of_ids
     mirnas.append(line)
 
-with open('syn/mirna_new.syn', 'w') as f:
+with open('syn/mirna_new_no3p5p.syn', 'w') as f:
     for line in mirnas:
         f.write(line)
         f.write('\n')

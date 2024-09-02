@@ -1,5 +1,5 @@
 mirna_papers = {}
-with open('unique_results/unique_results2_withallwords.txt', 'r') as f:
+with open('textmining_resutls/unique_results2_withallwords.txt', 'r') as f:
     lines = f.readlines()
     for line in lines:
         list = line.split(" ")
@@ -9,7 +9,7 @@ with open('unique_results/unique_results2_withallwords.txt', 'r') as f:
             mirna_papers[PMC] = key
 
 plant_papers = []
-filename = 'unique_results/unique_results_withallwords.txt'
+filename = 'textmining_resutls/unique_results_withallwords.txt'
 f = open(filename, encoding="utf-8")
 lines = f.readlines()
 for line in lines:
