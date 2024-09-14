@@ -1,6 +1,6 @@
 
 plant_papers = {}
-filename = 'textmining_resutls/unique_results_withallwords.txt'
+filename = 'unique_results/unique_results_withallwords.txt'
 f = open(filename, encoding="utf-8")
 
 
@@ -22,10 +22,11 @@ for line in lines:
             list_of_plants.append(name)
 
 miR_plant_papers = []
-with open('intersections/plant_Form.txt', 'r') as f:
+with open('intersections/mirna_plant.txt', 'r') as f:
     lines = f.readlines()
     for pmc in lines:
         miR_plant_papers.append(pmc.strip("\n"))
+
 
 
 papers_of_plant = {}
@@ -48,13 +49,7 @@ for plant in list_of_plants:
     papers_of_plant[plant] = papers
     miR_Papers_of_plant[plant] = miR_papers
 
-with open('myresults/db_plant_FORM.txt', 'w', encoding="utf-8") as f:
-    for line in miR_Papers_of_plant:
-        f.write(line)
-        f.write(": " + miR_Papers_of_plant[line])
-        f.write('\n')
 
-'''
 with open('myresults/db_plant.txt', 'w', encoding="utf-8") as f:
     for line in list_of_plants:
         f.write(line)
@@ -67,5 +62,3 @@ with open('myresults/db_mirplant.txt', 'w', encoding="utf-8") as f:
         f.write(line)
         f.write(": " + miR_Papers_of_plant[line])
         f.write('\n')
-
-'''
