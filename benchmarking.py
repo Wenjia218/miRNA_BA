@@ -100,9 +100,9 @@ with open('benchmarking.csv', 'w', newline='') as csvfile:
             write_list.append("False" + ",")
             write_list.append("False" + ",")
         if PMC in plant_lines:
-            write_list.append(plant_lines[PMC] + ",")
+            write_list.append(plant_lines[PMC].replace("|", "") + ",")
         if PMC in FORM_lines:
-            write_list.append(FORM_lines[PMC] + ",")
+            write_list.append(FORM_lines[PMC].replace("|", "") + ",")
         spamwriter.writerow(write_list)
 
 
