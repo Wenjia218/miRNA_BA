@@ -1,0 +1,1349 @@
+mir-21:
+PMC2486268: 2008,Sequence Relationships among C. elegans , D. melanogaster and Human microRNAs Highlight the Extensive Conservation of microRNAs in Biology
+------>
+PMC2644714: 2009,Cloning, characterization and expression analysis of porcine microRNAs
+------>
+PMC2761914: 2009,Characterization of bovine miRNAs by sequencing and bioinformatics analysis
+------>
+PMC2778997: 2009,NF-kappaB p65-Dependent Transactivation of miRNA Genes following Cryptosporidium parvum Infection Stimulates Epithelial Cell Immune Responses
+------>
+PMC2831003: 2010,miRMaid: a unified programming interface for microRNA data resources
+------>
+PMC2920319: 2010,miRNAs in Newt Lens Regeneration: Specific Control of Proliferation and Evidence for miRNA Networking
+------>
+PMC3050891: 2011,Co-Expression of Host and Viral MicroRNAs in Porcine Dendritic Cells Infected by the Pseudorabies Virus
+------>
+PMC3120797: 2011,miR-34a and miR-15a/16 are co-regulated in non-small cell lung cancer and control cell cycle progression in a synergistic and Rb-dependent manner
+------>
+PMC3219184: 2011,Expression of microRNA and their gene targets are dysregulated in preinvasive breast cancer
+------>
+PMC3924844: 2011,Looking into the Black Box: Insights into the Mechanisms of Somatic Cell Reprogramming
+------>
+PMC3252342: 2012,High-Throughput Functional MicroRNAs Profiling by Recombinant AAV-Based MicroRNA Sensor Arrays
+------>
+PMC3317752: 2012,Curcumin: Updated Molecular Mechanisms and Intervention Targets in Human Lung Cancer
+------>
+PMC3356255: 2012,A Panel of Serum MicroRNAs as Specific Biomarkers for Diagnosis of Compound- and Herb-Induced Liver Injury in Rats
+------>
+PMC3382268: 2012,Potential Role of Garcinol as an Anticancer Agent
+------>
+PMC3382381: 2012,Mesenchymal Stem Cells for Cardiac Regeneration: Translation to Bedside Reality
+------>
+PMC3383676: 2012,A Daphnane Diterpenoid Isolated from Wikstroemia polyantha Induces an Inflammatory Response and Modulates miRNA Activity
+------>
+PMC3398606: 2012,Circulating Levels of MicroRNA from Children with Newly Diagnosed Type 1 Diabetes and Healthy Controls: Evidence That miR-25 Associates to Residual Beta-Cell Function and Glycaemic Control during Disease Progression
+------>
+PMC3411711: 2012,MicroRNA Profiling of Epstein-Barr Virus-Associated NK/T-Cell Lymphomas by Deep Sequencing
+------>
+PMC3432200: 2012,Environmental epigenetics: prospects for studying epigenetic mediation of exposure–response relationships
+------>
+PMC3441534: 2012,Microarray Analysis of microRNA Expression during Axolotl Limb Regeneration
+------>
+PMC3445861: 2012,An induction of microRNA, miR-7 through estrogen treatment in breast carcinoma
+------>
+PMC3446343: 2012,MicroRNA-34a and microRNA-21 play roles in the chemopreventive effects of 3,6-dihydroxyflavone on 1-methyl-1-nitrosourea-induced breast carcinogenesis
+------>
+PMC3460211: 2012,Unraveling 50-Year-Old Clues Linking Neurodegeneration and Cancer to Cycad Toxins: Are microRNAs Common Mediators?
+------>
+PMC3465304: 2012,TFPI Alpha and Beta Regulate mRNAs and microRNAs Involved in Cancer Biology and in the Immune System in Breast Cancer Cells
+------>
+PMC3468887: 2012,MicroRNA in Aging: From Discovery to Biology
+------>
+PMC3498252: 2012,Identification of a Plant Viral RNA Genome in the Nucleus
+------>
+PMC3498320: 2012,High-Throughput MicroRNA (miRNAs) Arrays Unravel the Prognostic Role of MiR-211 in Pancreatic Cancer
+------>
+PMC3355088: 2012,miR-27b Targets KSRP to Coordinate TLR4-Mediated Epithelial Defense against Cryptosporidium parvum Infection
+------>
+PMC3619122: 2013,Comparison of non-coding RNAs in human and canine cancer
+------>
+PMC3634484: 2013,Non-Coding RNAs: Functional Aspects and Diagnostic Utility in Oncology
+------>
+PMC3659509: 2013,Update on the Protective Molecular Pathways Improving Pancreatic Beta-Cell Dysfunction
+------>
+PMC3692539: 2013,MicroRNA-Gene Expression Network in Murine Liver during Schistosoma japonicum Infection
+------>
+PMC3694260: 2013,Thymic Versus Induced Regulatory T Cells – Who Regulates the Regulators?
+------>
+PMC3726319: 2013,Identification and characterization of microRNAs in Baylisascaris schroederi of the giant panda
+------>
+PMC3742202: 2013,Regulation of miRNA Expression by Low-Level Laser Therapy (LLLT) and Photodynamic Therapy (PDT)
+------>
+PMC3753477: 2013,Developing microRNA screening as a functional genomics tool for disease research
+------>
+PMC3787033: 2013,MicroRNA-21-3p, a Berberine-Induced miRNA, Directly Down-Regulates Human Methionine Adenosyltransferases 2A and 2B and Inhibits Hepatoma Cell Growth
+------>
+PMC3799744: 2013,Influence of Plasma Processing on Recovery and Analysis of Circulating Nucleic Acids
+------>
+PMC3827083: 2013,A Cross-Platform Comparison of Affymetrix and Agilent Microarrays Reveals Discordant miRNA Expression in Lung Tumors of c-Raf Transgenic Mice
+------>
+PMC3852386: 2013,Identification and Characterization of FGF2-Dependent mRNA: microRNA Networks During Lens Fiber Cell Differentiation
+------>
+PMC3856408: 2013,Involvement of Eukaryotic Small RNA Pathways in Host Defense and Viral Pathogenesis
+------>
+PMC3861310: 2013,Curcumin Intake Affects miRNA Signature in Murine Melanoma with mmu-miR-205-5p Most Significantly Altered
+------>
+PMC3866163: 2013,Global Assessment of Antrodia cinnamomea -Induced MicroRNA Alterations in Hepatocarcinoma Cells
+------>
+PMC3879200: 2013,A TrkB–STAT3–miR-204-5p regulatory circuitry controls proliferation and invasion of endometrial carcinoma cells
+------>
+PMC4015315: 2013,MiR-370 sensitizes chronic myeloid leukemia K562 cells to homoharringtonine by targeting Forkhead box M1
+------>
+PMC4222092: 2013,Identifying common and specific microRNAs expressed in peripheral blood mononuclear cell of type 1, type 2, and gestational diabetes mellitus patients
+------>
+PMC5302293: 2013,Common Beans and Their Non-Digestible Fraction: Cancer Inhibitory Activity—An Overview
+------>
+PMC3586946: 2013,miRNA-target prediction based on transcriptional regulation
+------>
+PMC3901728: 2014,The Role of Viral and Host MicroRNAs in the Aujeszky’s Disease Virus during the Infection Process
+------>
+PMC3918721: 2014,Transforming Growth Factor-Beta and Matrix Metalloproteinases: Functional Interactions in Tumor Stroma-Infiltrating Myeloid Cells
+------>
+PMC3964735: 2014,Role of MicroRNAs in Islet Beta-Cell Compensation and Failure during Diabetes
+------>
+PMC4029070: 2014,Transcriptome microRNA profiling of bovine mammary epithelial cells challenged with Escherichia coli or Staphylococcus aureus bacteria reveals pathogen directed microRNA expression profiles
+------>
+PMC4100900: 2014,Isolation, Characterization and Potential Role in Beta Cell-Endothelium Cross-Talk of Extracellular Vesicles Released from Human Pancreatic Islets
+------>
+PMC4124018: 2014,let-7e replacement yields potent anti-arrhythmic efficacy via targeting beta 1-adrenergic receptor in rat heart
+------>
+PMC4159003: 2014,MicroRNA in Teleost Fish
+------>
+PMC4181235: 2014,MicroRNAs and the regulation of intestinal homeostasis
+------>
+PMC4196076: 2014,Arctiin blocks hydrogen peroxide-induced senescence and cell death though microRNA expression changes in human dermal papilla cells
+------>
+PMC4200766: 2014,Pomegranate and Its Components as Alternative Treatment for Prostate Cancer
+------>
+PMC4210915: 2014,Impact of Soy Isoflavones on the Epigenome in Cancer Prevention
+------>
+PMC4211541: 2014,Epigenetic modulation in the treatment of atherosclerotic disease
+------>
+PMC4227785: 2014,A cytoplasmic RNA virus generates functional viral small RNAs and regulates viral IRES activity in mammalian cells
+------>
+PMC4232521: 2014,Diallyl Disulfide Suppresses SRC/Ras/ERK Signaling-Mediated Proliferation and Metastasis in Human Breast Cancer by Up-Regulating miR-34a
+------>
+PMC4237362: 2014,De novo Assembly of the Grass Carp Ctenopharyngodon idella Transcriptome to Identify miRNA Targets Associated with Motile Aeromonad Septicemia
+------>
+PMC6271598: 2014,Berberine, an Epiphany Against Cancer
+------>
+PMC6271914: 2014,α-Solanine Inhibits Invasion of Human Prostate Cancer Cell by Suppressing Epithelial-Mesenchymal Transition and MMPs Expression
+------>
+PMC4317705: 2015,Differential expression of microRNAs in preneoplastic gastric mucosa
+------>
+PMC4324823: 2015,Consumption of Distinct Dietary Lipids during Early Pregnancy Differentially Modulates the Expression of microRNAs in Mothers and Offspring
+------>
+PMC4394461: 2015,Transcriptome MicroRNA Profiling of Bovine Mammary Glands Infected with Staphylococcus aureus
+------>
+PMC4404052: 2015,Increased MicroRNA-34b and -34c Predominantly Expressed in Stromal Tissues Is Associated with Poor Prognosis in Human Colon Cancer
+------>
+PMC4416013: 2015,Identification and Characterization of Cyprinid Herpesvirus-3 (CyHV-3) Encoded MicroRNAs
+------>
+PMC4425163: 2015,Inflammaging and Cancer: A Challenge for the Mediterranean Diet
+------>
+PMC4444121: 2015,Up-Regulation of miR-21 Is Associated with Cervicitis and Human Papillomavirus Infection in Cervical Tissues
+------>
+PMC4445322: 2015,Impact of Nutrition on Non-Coding RNA Epigenetics in Breast and Gynecological Cancer
+------>
+PMC4446746: 2015,Dietary RNAs: New Stories Regarding Oral Delivery
+------>
+PMC4456708: 2015,Integrated microRNA, mRNA, and protein expression profiling reveals microRNA regulatory networks in rat kidney treated with a carcinogenic dose of aristolochic acid
+------>
+PMC4463604: 2015,miRNAs in the Pathogenesis of Systemic Lupus Erythematosus
+------>
+PMC4463700: 2015,Adventitial Tertiary Lymphoid Organs as Potential Source of MicroRNA Biomarkers for Abdominal Aortic Aneurysm
+------>
+PMC4466683: 2015,Stratifying risk of recurrence in stage II colorectal cancer using deregulated stromal and epithelial microRNAs
+------>
+PMC4468817: 2015,Radiation quality-dependence of bystander effect in unirradiated fibroblasts is associated with TGF-β1-Smad2 pathway and miR-21 in irradiated keratinocytes
+------>
+PMC4519775: 2015,miRNA-133 augments coelomocyte phagocytosis in bacteria-challenged Apostichopus japonicus via targeting the TLR component of IRAK-1 in vitro and in vivo
+------>
+PMC4521869: 2015,Circulating miRNAs: Potential Novel Biomarkers for Hepatopathology Progression and Diagnosis of Schistosomiasis Japonica in Two Murine Models
+------>
+PMC4522245: 2015,Use of miRNAs in biofluids as biomarkers in dietary and lifestyle intervention studies
+------>
+PMC4551683: 2015,MicroRNA Expression Profiling of Human Respiratory Epithelium Affected by Invasive Candida Infection
+------>
+PMC4552836: 2015,Comparative Genomic, MicroRNA, and Tissue Analyses Reveal Subtle Differences between Non-Diabetic and Diabetic Foot Skin
+------>
+PMC4573990: 2015,Trachoma and Ocular Chlamydial Infection in the Era of Genomics
+------>
+PMC4583433: 2015,miRTex: A Text Mining System for miRNA-Gene Relation Extraction
+------>
+PMC4585664: 2015,MicroRNA profiles in hippocampal granule cells and plasma of rats with pilocarpine-induced epilepsy – comparison with human epileptic samples
+------>
+PMC4610055: 2015,Beneficial biological effects and the underlying mechanisms of molecular hydrogen - comprehensive review of 321 original articles -
+------>
+PMC4612409: 2015,DNA hypermethylation and decreased mRNA expression of MAL, PRIMA1, PTGDR and SFRP1 in colorectal adenoma and cancer
+------>
+PMC4619559: 2015,Small nucleolar RNA U91 is a new internal control for accurate microRNAs quantification in pancreatic cancer
+------>
+PMC4628385: 2015,Deep sequencing shows microRNA involvement in bovine mammary gland adaptation to diets supplemented with linseed oil or safflower oil
+------>
+PMC4636300: 2015,Similar Squamous Cell Carcinoma Epithelium microRNA Expression in Never Smokers and Ever Smokers
+------>
+PMC4650335: 2015,High-throughput sequencing of RNAs isolated by cross-linking immunoprecipitation (HITS-CLIP) reveals Argonaute-associated microRNAs and targets in Schistosoma japonicum
+------>
+PMC4652605: 2015,Targeting Non-Coding RNAs in Plants with the CRISPR-Cas Technology is a Challenge yet Worth Accepting
+------>
+PMC4663621: 2015,Tomato ( Lycopersicon esculentum ) Supplementation Induces Changes in Cardiac miRNA Expression, Reduces Oxidative Stress and Left Ventricular Mass, and Improves Diastolic Function
+------>
+PMC4680116: 2015,Expression of MicroRNAs in the Eyes of Lewis Rats with Experimental Autoimmune Anterior Uveitis
+------>
+PMC4695160: 2015,Molecular profiling of lung adenosquamous carcinoma: hybrid or genuine type?
+------>
+PMC4741910: 2015,Treatment of renal fibrosis by rebalancing TGF-β/Smad signaling with the combination of asiatic acid and naringenin
+------>
+PMC4547744: 2015,MicroRNA-Sequence Profiling Reveals Novel Osmoregulatory MicroRNA Expression Patterns in Catadromous Eel Anguilla marmorata
+------>
+PMC4449925: 2015,Ginsenoside-Rb1 Protects Hypoxic- and Ischemic-Damaged Cardiomyocytes by Regulating Expression of miRNAs
+------>
+PMC4698583: 2016,MicroRNA-induced negative regulation of TLR-5 in grass carp, Ctenopharyngodon idella
+------>
+PMC4739388: 2016,Inverse relationship between microRNA-155 and -184 expression with increasing conjunctival inflammation during ocular Chlamydia trachomatis infection
+------>
+PMC4756660: 2016,Systematic microRNAome profiling reveals the roles of microRNAs in milk protein metabolism and quality: insights on low-quality forage utilization
+------>
+PMC4773022: 2016,The Non-Specific Binding of Fluorescent-Labeled MiRNAs on Cell Surface by Hydrophobic Interaction
+------>
+PMC4783888: 2016,Identification and Characterization of MicroRNAs in Snakehead Fish Cell Line upon Snakehead Fish Vesiculovirus Infection
+------>
+PMC4804519: 2016,Vascular endothelial microparticles-incorporated microRNAs are altered in patients with diabetes mellitus
+------>
+PMC4831793: 2016,Association of Circulating Serum miR-34a and miR-122 with Dyslipidemia among Patients with Non-Alcoholic Fatty Liver Disease
+------>
+PMC4836744: 2016,Diagnostic Value of Serum miR-182, miR-183, miR-210, and miR-126 Levels in Patients with Early-Stage Non-Small Cell Lung Cancer
+------>
+PMC4882663: 2016,Resveratrol and Cardiovascular Diseases
+------>
+PMC4896250: 2016,XXIV World Allergy Congress 2015
+------>
+PMC4896251: 2016,Proceedings of the 7th Biannual International Symposium on Nasopharyngeal Carcinoma 2015
+------>
+PMC4896275: 2016,Human genome meeting 2016
+------>
+PMC4926129: 2016,Roles of Dietary Phytoestrogens on the Regulation of Epithelial-Mesenchymal Transition in Diverse Cancer Metastasis
+------>
+PMC4926427: 2016,Cancer Stem Cells: The Potential Targets of Chinese Medicines and Their Active Compounds
+------>
+PMC4995590: 2016,Comparison of different normalization strategies for the analysis of glomerular microRNAs in IgA nephropathy
+------>
+PMC5008393: 2016,Challenges in detecting pre-malignant pancreatic lesions during acute pancreatitis using a serum microRNA assay: a study based on Kras G12D transgenic mice
+------>
+PMC5020072: 2016,Calcium-Sensing Receptor Gene: Regulation of Expression
+------>
+PMC5056323: 2016,Mechanisms of Comorbidities Associated With the Metabolic Syndrome: Insights from the JCR:LA-cp Corpulent Rat Strain
+------>
+PMC5058690: 2016,Curcumin modulates chronic myelogenous leukemia exosomes composition and affects angiogenic phenotype via exosomal miR-21
+------>
+PMC5085780: 2016,A Comprehensive MicroRNA Expression Profile of Liver and Lung Metastases of Colorectal Cancer with Their Corresponding Host Tissue and Its Prognostic Impact on Survival
+------>
+PMC5089844: 2016,Uridylation and adenylation of RNAs
+------>
+PMC5113094: 2016,Saliva in the diagnosis of diseases
+------>
+PMC5191881: 2016,A serum miRNA profile of human longevity: findings from the Baltimore Longitudinal Study of Aging (BLSA)
+------>
+PMC5295001: 2016,Noncoding RNA Profiles in Tobacco- and Alcohol-Associated Diseases
+------>
+PMC5354823: 2016,Andrographolide impedes cancer stemness and enhances radio-sensitivity in oral carcinomas via miR-218 activation
+------>
+PMC5456277: 2016,Targeting MicroRNA in Cancer Using Plant-Based Proanthocyanidins
+------>
+PMC5183581: 2016,Genome-Wide Transcriptional and Post-transcriptional Regulation of Innate Immune and Defense Responses of Bovine Mammary Gland to Staphylococcus aureus
+------>
+PMC5270663: 2016,Human exceptional longevity: transcriptome from centenarians is distinct from septuagenarians and reveals a role of Bcl-xL in successful aging
+------>
+PMC4722718: 2016,Integrated analysis of microRNA regulatory network in nasopharyngeal carcinoma with deep sequencing
+------>
+PMC5319172: 2017,Deep Illumina sequencing reveals conserved and novel microRNAs in grass carp in response to grass carp reovirus infection
+------>
+PMC5323410: 2017,The Importance of REST for Development and Function of Beta Cells
+------>
+PMC5341419: 2017,T-ALL and thymocytes: a message of noncoding RNAs
+------>
+PMC5343780: 2017,Inhaled Pollutants: The Molecular Scene behind Respiratory and Systemic Diseases Associated with Ultrafine Particulate Matter
+------>
+PMC5380760: 2017,Linking Diet to Colorectal Cancer: The Emerging Role of MicroRNA in the Communication between Plant and Animal Kingdoms
+------>
+PMC5385369: 2017,The Microbiota and Epigenetic Regulation of T Helper 17/Regulatory T Cells: In Search of a Balanced Immune System
+------>
+PMC5432169: 2017,Oxidative stress and expression of insulin signaling proteins in the brain of diabetic rats: Role of Nigella sativa oil and antidiabetic drugs
+------>
+PMC5435311: 2017,Inflammation-related microRNA expression level in the bovine milk is affected by mastitis
+------>
+PMC5435722: 2017,Nimbolide upregulates RECK by targeting miR-21 and HIF-1α in cell lines and in a hamster oral carcinogenesis model
+------>
+PMC5440130: 2017,The role of circulating miR-146a in patients with rheumatoid arthritis treated by Tripterygium wilfordii Hook F
+------>
+PMC5450105: 2017,Serum micro-rna profiles in patients with autosomal dominant polycystic kidney disease according to hypertension and renal function
+------>
+PMC5471334: 2017,Celastrol: A Spectrum of Treatment Opportunities in Chronic Diseases
+------>
+PMC5486001: 2017,Dietary Intervention by Phytochemicals and Their Role in Modulating Coding and Non-Coding Genes in Cancer
+------>
+PMC5509453: 2017,Effects of resveratrol, curcumin, berberine and other nutraceuticals on aging, cancer development, cancer stem cells and microRNAs
+------>
+PMC5514077: 2017,Transformation of patchouli alcohol to β-patchoulene by gastric juice: β-patchoulene is more effective in preventing ethanol-induced gastric injury
+------>
+PMC5514886: 2017,Zerumbone ameliorates high-fat diet-induced adiposity by restoring AMPK-regulated lipogenesis and microRNA-146b/SIRT1-mediated adipogenesis
+------>
+PMC5529207: 2017,Effects of microRNA-211 on proliferation and apoptosis of lens epithelial cells by targeting SIRT1 gene in diabetic cataract mice
+------>
+PMC5537842: 2017,Dietary Natural Products for Prevention and Treatment of Breast Cancer
+------>
+PMC5556338: 2017,Overexpression of miR-21 in stem cells improves ovarian structure and function in rats with chemotherapy-induced ovarian damage by targeting PDCD4 and PTEN to inhibit granulosa cell apoptosis
+------>
+PMC5558637: 2017,New Frontiers in Genetics, Gut Microbiota, and Immunity: A Rosetta Stone for the Pathogenesis of Inflammatory Bowel Disease
+------>
+PMC5583148: 2017,Key Aging-Associated Alterations in Primary Microglia Response to Beta-Amyloid Stimulation
+------>
+PMC5590820: 2017,Analysis of the whole transcriptome from gingivo-buccal squamous cell carcinoma reveals deregulated immune landscape and suggests targets for immunotherapy
+------>
+PMC5618539: 2017,Brassica -Derived Plant Bioactives as Modulators of Chemopreventive and Inflammatory Signaling Pathways
+------>
+PMC5618566: 2017,Dual Role of MiR-21-Mediated Signaling in HUVECs and Rat Surgical Flap under Normoxia and Hypoxia Condition
+------>
+PMC5655248: 2017,Berberine-targeted miR-21 chemosensitizes oral carcinomas stem cells
+------>
+PMC5655318: 2017,MicroRNAs in lung cancer
+------>
+PMC5704592: 2017,Novel insights into epigenetic drivers of oropharyngeal squamous cell carcinoma: role of HPV and lifestyle factors
+------>
+PMC5716711: 2017,Metformin ameliorates skeletal muscle insulin resistance by inhibiting miR-21 expression in a high-fat dietary rat model
+------>
+PMC5722553: 2017,Genome-wide analysis of circular RNAs in prenatal and postnatal muscle of sheep
+------>
+PMC5723063: 2017,Next-generation sequencing: recent applications to the analysis of colorectal cancer
+------>
+PMC5732908: 2017,Immunopathogenesis in Myasthenia Gravis and Neuromyelitis Optica
+------>
+PMC5733215: 2017,S1P Lyase Regulation of Thymic Egress and Oncogenic Inflammatory Signaling
+------>
+PMC5739800: 2017,Dietary miR-451 protects erythroid cells from oxidative stress via increasing the activity of Foxo3 pathway
+------>
+PMC5742520: 2017,Exosomal microRNA remodels the tumor microenvironment
+------>
+PMC5751372: 2017,Molecular Determinants of Malignant Brain Cancers: From Intracellular Alterations to Invasion Mediated by Extracellular Vesicles
+------>
+PMC5790462: 2017,Ovatodiolide targets chronic myeloid leukemia stem cells by epigenetically upregulating hsa-miR-155, suppressing the BCR-ABL fusion gene and dysregulating the PI3K/AKT/mTOR pathway
+------>
+PMC6150360: 2017,Berberine Activates Aryl Hydrocarbon Receptor but Suppresses CYP1A1 Induction through miR-21-3p Stimulation in MCF-7 Breast Cancer Cells
+------>
+PMC6518927: 2017,Associations between hepatic miRNA expression, liver triacylglycerols and gut microbiota during metabolic adaptation to high-fat diet in mice
+------>
+PMC5774105: 2018,MicroRNA transcriptome analysis of porcine vital organ responses to immunosuppressive porcine cytomegalovirus infection
+------>
+PMC5794709: 2018,Gut Microbiota and the Neuroendocrine System
+------>
+PMC5824955: 2018,Comparative regenerative mechanisms across different mammalian tissues
+------>
+PMC5826318: 2018,Gut Microbiota: An Integral Moderator in Health and Disease
+------>
+PMC5833813: 2018,BRM270 inhibits cancer stem cell maintenance via microRNA regulation in chemoresistant A549 lung adenocarcinoma cells
+------>
+PMC5836070: 2018,Colorectal Cancer and Alcohol Consumption—Populations to Molecules
+------>
+PMC5850903: 2018,Dihydromyricetin Attenuates TNF- α -Induced Endothelial Dysfunction through miR-21-Mediated DDAH1/ADMA/NO Signal Pathway
+------>
+PMC5874230: 2018,Non-specific protein modifications may be novel mechanism underlying bioactive phytochemicals
+------>
+PMC5890161: 2018,Our Environment Shapes Us: The Importance of Environment and Sex Differences in Regulation of Autoantibody Production
+------>
+PMC5893550: 2018,Identification of potential urine proteins and microRNA biomarkers for the diagnosis of pulmonary tuberculosis patients
+------>
+PMC5897953: 2018,Nanotechnology based approaches for detection and delivery of microRNA in healthcare and crop protection
+------>
+PMC5908319: 2018,Influence of physical exercise on microRNAs in skeletal muscle regeneration, aging and diseases
+------>
+PMC5954203: 2018,Interaction between Host MicroRNAs and the Gut Microbiota in Colorectal Cancer
+------>
+PMC5958303: 2018,The Administration of Escherichia coli Nissle 1917 Ameliorates Development of DSS-Induced Colitis in Mice
+------>
+PMC5979314: 2018,MicroRNA-146a Deficiency Protects against Listeria monocytogenes Infection by Modulating the Gut Microbiota
+------>
+PMC5979386: 2018,Identification of Blueberry miRNAs and Their Targets Based on High-Throughput Sequencing and Degradome Analyses
+------>
+PMC5995179: 2018,Steviol, a natural product inhibits proliferation of the gastrointestinal cancer cells intensively
+------>
+PMC6073382: 2018,Update on FXR Biology: Promising Therapeutic Target?
+------>
+PMC6117360: 2018,Alpinetin exerts anti-colitis efficacy by activating AhR, regulating miR-302/DNMT-1/CREB signals, and therefore promoting Treg differentiation
+------>
+PMC6141719: 2018,MicroRNA Functions in Thymic Biology: Thymic Development and Involution
+------>
+PMC6160418: 2018,Baicalin, the major component of traditional Chinese medicine Scutellaria baicalensis induces colon cancer cell apoptosis through inhibition of oncomiRNAs
+------>
+PMC6165247: 2018,New Hope for Pancreatic Ductal Adenocarcinoma Treatment Targeting Endoplasmic Reticulum Stress Response: A Systematic Review
+------>
+PMC6167836: 2018,MicroRNAs from plants to animals, do they define a new messenger for communication?
+------>
+PMC6186799: 2018,Common Cervicovaginal Microbial Supernatants Alter Cervical Epithelial Function: Mechanisms by Which Lactobacillus crispatus Contributes to Cervical Health
+------>
+PMC6205583: 2018,The role of NF-κB and miRNA in oral cancer and cancer stem cells with or without HPV16 infection
+------>
+PMC6213156: 2018,Bioactivity, Health Benefits, and Related Molecular Mechanisms of Curcumin: Current Progress, Challenges, and Perspectives
+------>
+PMC6230590: 2018,miRNA miR-21 Is Largely Dispensable for Intrathymic T-Cell Development
+------>
+PMC6230675: 2018,Toll-Like Receptor Stimulation by MicroRNAs in Acute Graft-vs.-Host Disease
+------>
+PMC6266584: 2018,Ginger Extract Ameliorates Obesity and Inflammation via Regulating MicroRNA-21/132 Expression and AMPK Activation in White Adipose Tissue
+------>
+PMC6267435: 2018,Sulforaphane from Cruciferous Vegetables: Recent Advances to Improve Glioblastoma Treatment
+------>
+PMC6274848: 2018,Assessment of Human Skin Gene Expression by Different Blends of Plant Extracts with Implications to Periorbital Skin Aging
+------>
+PMC6288931: 2018,Curcumin inhibits proliferation, migration, invasion and promotes apoptosis of retinoblastoma cell lines through modulation of miR-99a and JAK/STAT pathway
+------>
+PMC6304542: 2018,Total Flavonoids from Carya cathayensis Sarg. Leaves Alleviate H9c2 Cells Hypoxia/Reoxygenation Injury via Effects on miR-21 Expression, PTEN/Akt, and the Bcl-2/Bax Pathway
+------>
+PMC6309127: 2018,Cancer Chemoprevention: Classic and Epigenetic Mechanisms Inhibiting Tumorigenesis. What Have We Learned So Far?
+------>
+PMC6320762: 2018,MicroRNA 210 Mediates VEGF Upregulation in Human Periodontal Ligament Stem Cells Cultured on 3DHydroxyapatite Ceramic Scaffold
+------>
+PMC6337206: 2018,Ursolic Acid Induces Apoptosis in Colorectal Cancer Cells Partially via Upregulation of MicroRNA-4500 and Inhibition of JAK2/STAT3 Phosphorylation
+------>
+PMC6690251: 2018,Esophageal cancer research today and tomorrow: Lessons from algae and other perspectives
+------>
+PMC6181382: 2018,MicroRNA and mRNA expression associated with ectopic germinal centers in thymus of myasthenia gravis
+------>
+PMC6321451: 2018,miRNAmotif—A Tool for the Prediction of Pre-miRNA–Protein Interactions
+------>
+PMC6332841: 2019,MicroRNA expression profile of HCT-8 cells in the early phase of Cryptosporidium parvum infection
+------>
+PMC6332961: 2019,Circulating Hypoxia Responsive microRNAs (HRMs) and Wound Healing Potentials of Green Tea in Diabetic and Nondiabetic Rat Models
+------>
+PMC6350133: 2019,Tripterine up-regulates miR-223 to alleviate lipopolysaccharide-induced damage in murine chondrogenic ATDC5 cells
+------>
+PMC6381209: 2019,Genome-wide miRNA profiling reinforces the importance of miR-9 in human papillomavirus associated oral and oropharyngeal head and neck cancer
+------>
+PMC6381655: 2019,Epigenetic impacts of maternal tobacco and e-vapour exposure on the offspring lung
+------>
+PMC6394015: 2019,Molecular Pathogenesis of Cholangiocarcinoma
+------>
+PMC6405884: 2019,Non-coding RNA in Fragile X Syndrome and Converging Mechanisms Shared by Related Disorders
+------>
+PMC6405899: 2019,Beta cell secretion of miR-375 to HDL is inversely associated with insulin secretion
+------>
+PMC6410298: 2019,Comparison of the Transcriptomes and Proteomes of Serum Exosomes from Marek’s Disease Virus-Vaccinated and Protected and Lymphoma-Bearing Chickens
+------>
+PMC6411762: 2019,Common miRNA Patterns of Alzheimer’s Disease and Parkinson’s Disease and Their Putative Impact on Commensal Gut Microbiota
+------>
+PMC6416268: 2019,Rg6, a rare ginsenoside, inhibits systemic inflammation through the induction of interleukin-10 and microRNA-146a
+------>
+PMC6429290: 2019,The Potential Beneficial Effects of Resveratrol on Cardiovascular Complications in Marfan Syndrome Patients–Insights from Rodent-Based Animal Studies
+------>
+PMC6476896: 2019,Dietary Modulation of Intestinal Microbiota: Future Opportunities in Experimental Autoimmune Encephalomyelitis and Multiple Sclerosis
+------>
+PMC6479766: 2019,Human Brain Injury and miRNAs: An Experimental Study
+------>
+PMC6479806: 2019,Anticancer Activities of Thymus vulgaris L. in Experimental Breast Carcinoma In Vivo and In Vitro
+------>
+PMC6489279: 2019,Effect of Celastrus orbiculatus in inhibiting Helicobacter pylori induced inflammatory response by regulating epithelial mesenchymal transition and targeting miR-21/PDCD4 signaling pathway in gastric epithelial cells
+------>
+PMC6500620: 2019,Diverse Pharmacological Activities and Potential Medicinal Benefits of Geniposide
+------>
+PMC6501137: 2019,Antiangiogenic Effect of Alkaloids
+------>
+PMC6503054: 2019,Cannabinoid Attenuation of Intestinal Inflammation in Chronic SIV-Infected Rhesus Macaques Involves T Cell Modulation and Differential Expression of Micro-RNAs and Pro-inflammatory Genes
+------>
+PMC6507163: 2019,Eupatilin Inhibits Renal Cancer Growth by Downregulating MicroRNA-21 through the Activation of YAP1
+------>
+PMC6510214: 2019,Amyloid Beta and MicroRNAs in Alzheimer’s Disease
+------>
+PMC6523287: 2019,Host–MicroRNA–Microbiota Interactions in Colorectal Cancer
+------>
+PMC6524340: 2019,Prenatal epigenetics diets play protective roles against environmental pollution
+------>
+PMC6537929: 2019,Bioactive Ingredients in Chinese Herbal Medicines That Target Non-coding RNAs: Promising New Choices for Disease Treatment
+------>
+PMC6540251: 2019,High-Amylose Maize, Potato, and Butyrylated Starch Modulate Large Intestinal Fermentation, Microbial Composition, and Oncogenic miRNA Expression in Rats Fed A High-Protein Meat Diet
+------>
+PMC6549001: 2019,Mixed Diets Reduce the Oxidative Stress of Common Carp ( Cyprinus carpio ): Based on MicroRNA Sequencing
+------>
+PMC6555472: 2019,Prediction of competing endogenous RNA coexpression network as prognostic markers in AML
+------>
+PMC6557992: 2019,Curcumin as an Alternative Epigenetic Modulator: Mechanism of Action and Potential Effects
+------>
+PMC6582335: 2019,Self-powered RNA nanomachine driven by metastable structure
+------>
+PMC6599184: 2019,Microbe and host interaction in gastrointestinal homeostasis
+------>
+PMC6600229: 2019,High Fructose Intake and Adipogenesis
+------>
+PMC6627480: 2019,In Search of Panacea—Review of Recent Studies Concerning Nature-Derived Anticancer Agents
+------>
+PMC6676344: 2019,Formononetin: A Review of Its Anticancer Potentials and Mechanisms
+------>
+PMC6679356: 2019,Anti-tumor Activity and Epigenetic Impact of the Polyphenol Oleacein in Multiple Myeloma
+------>
+PMC6680685: 2019,Curcumin Combination Chemotherapy: The Implication and Efficacy in Cancer
+------>
+PMC6680967: 2019,Hydroxytyrosyl Oleate: Improved Extraction Procedure from Olive Oil and By-Products, and In Vitro Antioxidant and Skin Regenerative Properties
+------>
+PMC6692454: 2019,Infectious Threats, the Intestinal Barrier, and Its Trojan Horse: Dysbiosis
+------>
+PMC6695697: 2019,Therapeutic Perspectives of Molecules from Urtica dioica Extracts for Cancer Treatment
+------>
+PMC6708903: 2019,Identification of microRNA biomarkers in atrial fibrillation
+------>
+PMC6712515: 2019,Combination of Cannabinoids, Δ9- Tetrahydrocannabinol and Cannabidiol, Ameliorates Experimental Multiple Sclerosis by Suppressing Neuroinflammation Through Regulation of miRNA-Mediated Signaling Pathways
+------>
+PMC6756869: 2019,Curcumin suppresses osteogenesis by inducing miR-126a-3p and subsequently suppressing the WNT/LRP6 pathway
+------>
+PMC6767646: 2019,microRNA-92a regulates the expression of aphid bacteriocyte-specific secreted protein 1
+------>
+PMC6769970: 2019,miRNA Profiling for Early Detection and Treatment of Duchenne Muscular Dystrophy
+------>
+PMC6775295: 2019,miR-27a-containing Exosomes Secreted by Irradiated Skin Keratinocytes Delayed the Migration of Unirradiated Skin Fibroblasts
+------>
+PMC6775604: 2019,ITGB4 is a novel prognostic factor in colon cancer
+------>
+PMC6787204: 2019,Concentrates of two subsets of extracellular vesicles from cow’s milk modulate symptoms and inflammation in experimental colitis
+------>
+PMC6788304: 2019,Tiny Yet Indispensable Plant MicroRNAs Are Worth to Explore as Key Components for Combating Genotoxic Stresses
+------>
+PMC6803386: 2019,ARS2 Plays Diverse Roles in DNA Damage Response, Fungal Development, and Pathogenesis in the Plant Pathogenic Fungus Fusarium graminearum
+------>
+PMC6823203: 2019,Breast Milk-Derived Extracellular Vesicles Enriched in Exosomes From Mothers With Type 1 Diabetes Contain Aberrant Levels of microRNAs
+------>
+PMC6835707: 2019,Curcumin and Cancer
+------>
+PMC6861902: 2019,Eighth Annual Conference of inVIVO Planetary Health: From Challenges to Opportunities
+------>
+PMC6862082: 2019,The Roles of MicroRNAs (miRNAs) in Avian Response to Viral Infection and Pathogenesis of Avian Immunosuppressive Diseases
+------>
+PMC6875179: 2019,Regulatory Effect of 1,25(OH)2D3 on TGF- β 1 and miR-130b Expression in Streptozotocin-Induced Diabetic Nephropathy in Rats
+------>
+PMC6882360: 2019,High-throughput RNA sequencing from paired lesional- and non-lesional skin reveals major alterations in the psoriasis circRNAome
+------>
+PMC6882367: 2019,miR-34a in serum is involved in mild-to-moderate COPD in women exposed to biomass smoke
+------>
+PMC6893537: 2019,Multifactorial Etiology of Anemia in Celiac Disease and Effect of Gluten-Free Diet: A Comprehensive Review
+------>
+PMC6895461: 2019,Pistachio consumption modulates DNA oxidation and genes related to telomere maintenance: a crossover randomized clinical trial
+------>
+PMC6896338: 2019,Identification and characterization of differentially expressed exosomal microRNAs in bovine milk infected with Staphylococcus aureus
+------>
+PMC6909217: 2019,Systematic Transcriptome and Regulatory Network Analyses Reveal the Hypoglycemic Mechanism of Dendrobium fimbriatum
+------>
+PMC6920974: 2019,Gut Bacteria and their Metabolites: Which One Is the Defendant for Colorectal Cancer?
+------>
+PMC6933421: 2019,Role of TGF-β/Smad Pathway in the Transcription of Pancreas-Specific Genes During Beta Cell Differentiation
+------>
+PMC6940744: 2019,Different Diets Change the Expression of Bovine Serum Extracellular Vesicle-miRNAs
+------>
+PMC6950067: 2019,Mechanistic Understanding of Curcumin’s Therapeutic Effects in Lung Cancer
+------>
+PMC6953119: 2019,Cigarette Smoke Condensate Exposure Changes RNA Content of Extracellular Vesicles Released from Small Airway Epithelial Cells
+------>
+PMC7017298: 2019,Ovatodiolide Suppresses Oral Cancer Malignancy by Down-Regulating Exosomal Mir-21/STAT3/β-Catenin Cargo and Preventing Oncogenic Transformation of Normal Gingival Fibroblasts
+------>
+PMC7113219: 2019,Epigenetic Modifications in Head and Neck Cancer
+------>
+PMC6298565: 2019,Chimeric padlock and iLock probes for increased efficiency of targeted RNA detection
+------>
+PMC6967385: 2020,Human Colon Mucosal Biofilms and Murine Host Communicate via Altered mRNA and microRNA Expression during Cancer
+------>
+PMC6974692: 2020,The Epigenetic Connection Between the Gut Microbiome in Obesity and Diabetes
+------>
+PMC7036247: 2020,MicroRNA expression profiling of peripheral blood mononuclear cells associated with syphilis
+------>
+PMC7038027: 2020,Anticancer Activities of the Quinone-Methide Triterpenes Maytenin and 22-β-hydroxymaytenin Obtained from Cultivated Maytenus ilicifolia Roots Associated with Down-Regulation of miRNA-27a and miR-20a/miR-17-5p
+------>
+PMC7053209: 2020,Development of microRNA-21 mimic nanocarriers for the treatment of cutaneous wounds
+------>
+PMC7055095: 2020,Mesenchymal stem cell-derived exosomes protect beta cells against hypoxia-induced apoptosis via miR-21 by alleviating ER stress and inhibiting p38 MAPK phosphorylation
+------>
+PMC7069476: 2020,Engineered Tumor-Derived Extracellular Vesicles: Potentials in Cancer Immunotherapy
+------>
+PMC7071348: 2020,DNA Dumbbell and Chameleon Silver Nanoclusters for miRNA Logic Operations
+------>
+PMC7072742: 2020,Early Programming of Adult Systemic Essential Hypertension
+------>
+PMC7073210: 2020,Molecular Mechanisms: Connections between Nonalcoholic Fatty Liver Disease, Steatohepatitis and Hepatocellular Carcinoma
+------>
+PMC7076998: 2020,Sedum sarmentosum Bunge extract ameliorates lipopolysaccharide- and D-galactosamine-induced acute liver injury by attenuating the hedgehog signaling pathway via regulation of miR-124 expression
+------>
+PMC7079449: 2020,Ginger in patients with active ulcerative colitis: a study protocol for a randomized controlled trial
+------>
+PMC7110418: 2020,Aristolochic Acid-Induced Genotoxicity and Toxicogenomic Changes in Rodents
+------>
+PMC7144360: 2020,Chemopreventive and Therapeutic Efficacy of Cinnamomum zeylanicum L. Bark in Experimental Breast Carcinoma: Mechanistic In Vivo and In Vitro Analyses
+------>
+PMC7148370: 2020,Circulating MicroRNA Profiling in Non-ST Elevated Coronary Artery Syndrome Highlights Genomic Associations with Serial Platelet Reactivity Measurements
+------>
+PMC7148479: 2020,Molecular and Lifestyle Factors Modulating Obesity Disease
+------>
+PMC7154817: 2020,Citrus Flavones: An Update on Sources, Biological Functions, and Health Promoting Properties
+------>
+PMC7162583: 2020,Puerarin inhibits hepatocellular carcinoma invasion and metastasis through miR-21-mediated PTEN/AKT signaling to suppress the epithelial-mesenchymal transition
+------>
+PMC7177753: 2020,The Encystment-Related MicroRNAs and Its Regulation Molecular Mechanism in Pseudourostyla cristata Revealed by High Throughput Small RNA Sequencing
+------>
+PMC7198595: 2020,MicroRNA Profiling of Highly Enriched Human Corneal Epithelial Stem Cells by Small RNA Sequencing
+------>
+PMC7215858: 2020,Nutrition and Genetics in NAFLD: The Perfect Binomium
+------>
+PMC7222555: 2020,High fat-induced inflammation in vascular endothelium can be improved by Abelmoschus esculentus and metformin via increasing the expressions of miR-146a and miR-155
+------>
+PMC7225936: 2020,Interactions between the MicroRNAs and Microbiota in Cancer Development: Roles and Therapeutic Opportunities
+------>
+PMC7226174: 2020,The Effect of NNK, A Tobacco Smoke Carcinogen, on the miRNA and Mismatch DNA Repair Expression Profiles in Lung and Head and Neck Squamous Cancer Cells
+------>
+PMC7226815: 2020,Extracellular Vesicles in Smoking-Mediated HIV Pathogenesis and their Potential Role in Biomarker Discovery and Therapeutic Interventions
+------>
+PMC7226848: 2020,Small Non-Coding RNA Profiling Identifies miR-181a-5p as a Mediator of Estrogen Receptor Beta-Induced Inhibition of Cholesterol Biosynthesis in Triple-Negative Breast Cancer
+------>
+PMC7230231: 2020,Nutrition, IBD and Gut Microbiota: A Review
+------>
+PMC7230998: 2020,Growth-Inhibitory Effect of Chitosan-Coated Liposomes Encapsulating Curcumin on MCF-7 Breast Cancer Cells
+------>
+PMC7232545: 2020,Matrine: A Promising Natural Product With Various Pharmacological Activities
+------>
+PMC7247699: 2020,Sinomenine Inhibits Migration and Invasion of Human Lung Cancer Cell through Downregulating Expression of miR-21 and MMPs
+------>
+PMC7277375: 2020,Garcinol Exhibits Anti-Neoplastic Effects by Targeting Diverse Oncogenic Factors in Tumor Cells
+------>
+PMC7281819: 2020,Epidemiology, Predisposing Factors, Biomarkers, and Prevention Mechanism of Obesity: A Systematic Review
+------>
+PMC7283354: 2020,MiR-195 enhances cardiomyogenic differentiation of the proepicardium/septum transversum by Smurf1 and Foxp1 modulation
+------>
+PMC7295965: 2020,Impediometric Electrochemical Sensor Based on The Inspiration of Carnation Italian Ringspot Virus Structure to Detect an Attommolar of miR
+------>
+PMC7297979: 2020,Role of miRNAs in Normal and Myasthenia Gravis Thymus
+------>
+PMC7306077: 2020,Galangin Inhibits Cholangiocarcinoma Cell Growth and Metastasis through Downregulation of MicroRNA-21 Expression
+------>
+PMC7330965: 2020,Discovery, identification, and functional characterization of long noncoding RNAs in Arachis hypogaea L.
+------>
+PMC7336431: 2020,Effects of a novel nutraceutical combination (BruMeChol™) in subjects with mild hypercholesterolemia: study protocol of a randomized, double-blind, controlled trial
+------>
+PMC7338561: 2020,The NF-κB Signaling Pathway, the Microbiota, and Gastrointestinal Tumorigenesis: Recent Advances
+------>
+PMC7355487: 2020,Low Expression of miR-20a-5p Predicts Benefit to Bevacizumab in Metastatic Breast Cancer Patients Treated within the TANIA Phase III Trial
+------>
+PMC7356814: 2020,RGD-PEG-PLA Delivers MiR-133 to Infarct Lesions of Acute Myocardial Infarction Model Rats for Cardiac Protection
+------>
+PMC7364482: 2020,LncRNA Sox2ot modulates the progression of thoracic aortic aneurysm by regulating miR-330-5p/Myh11
+------>
+PMC7376944: 2020,Psoralen alleviates high glucose-induced HK-2 cell injury by inhibition of Smad 2 signaling via upregulation of microRNA 874
+------>
+PMC7387426: 2020,The Effects of Type 2 Diabetes Mellitus on Organ Metabolism and the Immune System
+------>
+PMC7408725: 2020,MiR-216b/Smad3/BCL-2 Axis Is Involved in Smoking-Mediated Drug Resistance in Non-Small Cell Lung Cancer
+------>
+PMC7411700: 2020,Micro RNA Sensing with Green Emitting Silver Nanoclusters
+------>
+PMC7412841: 2020,Tanshinone IIA regulates human AML cell proliferation, cell cycle, and apoptosis through miR-497-5p/AKT3 axis
+------>
+PMC7427202: 2020,Tea Tree Oil Prevents Mastitis-Associated Inflammation in Lipopolysaccharide-Stimulated Bovine Mammary Epithelial Cells
+------>
+PMC7432597: 2020,Dietary Gluten and Neurodegeneration: A Case for Preclinical Studies
+------>
+PMC7438716: 2020,Integrative Transcriptomic and Small RNA Sequencing Reveals Immune-Related miRNA–mRNA Regulation Network for Soybean Meal-Induced Enteritis in Hybrid Grouper, Epinephelus fuscoguttatus ♀ × Epinephelus lanceolatus ♂
+------>
+PMC7456864: 2020,Blood Biomarkers of Glioma in Response Assessment Including Pseudoprogression and Other Treatment Effects: A Systematic Review
+------>
+PMC7460084: 2020,Resveratrol Modulates Transforming Growth Factor-Beta (TGF-β) Signaling Pathway for Disease Therapy: A New Insight into Its Pharmacological Activities
+------>
+PMC7460502: 2020,Medicinal Herbs Used in Traditional Management of Breast Cancer: Mechanisms of Action
+------>
+PMC7463657: 2020,Molecular Biology of Osteosarcoma
+------>
+PMC7463924: 2020,Fecal microRNAs as Innovative Biomarkers of Intestinal Diseases and Effective Players in Host-Microbiome Interactions
+------>
+PMC7463953: 2020,Epigenomic Dysregulation in Schizophrenia: In Search of Disease Etiology and Biomarkers
+------>
+PMC7465495: 2020,The Prowess of Andrographolide as a Natural Weapon in the War against Cancer
+------>
+PMC7471155: 2020,Increased miR-20b Level in High Grade Cervical Intraepithelial Neoplasia
+------>
+PMC7475710: 2020,Bta-miR-223 Targeting CBLB Contributes to Resistance to Staphylococcus aureus Mastitis Through the PI3K/AKT/NF-κB Pathway
+------>
+PMC7477438: 2020,Dihydromyricetin inhibits cell proliferation, migration, invasion and promotes apoptosis via regulating miR-21 in Human Cholangiocarcinoma Cells
+------>
+PMC7481361: 2020,Klotho, Aging, and the Failing Kidney
+------>
+PMC7488025: 2020,Exosomal microRNAs are novel circulating biomarkers in cigarette, waterpipe smokers, E-cigarette users and dual smokers
+------>
+PMC7502231: 2020,Evidence of transfer of miRNAs from the diet to the blood still inconclusive
+------>
+PMC7504483: 2020,Influence of Resveratrol on the Cardiovascular Health Effects of Chronic Kidney Disease
+------>
+PMC7504581: 2020,Potential Associations Among Alteration of Salivary miRNAs, Saliva Microbiome Structure, and Cognitive Impairments in Autistic Children
+------>
+PMC7507689: 2020,In search for interplay between stool microRNAs, microbiota and short chain fatty acids in Crohn’s disease - a preliminary study
+------>
+PMC7539315: 2020,Transcriptome Changes in Colorectal Cancer Cells upon Treatment with Avicequinone B
+------>
+PMC7541812: 2020,Epigenetic Effects of Gut Metabolites: Exploring the Path of Dietary Prevention of Type 1 Diabetes
+------>
+PMC7554785: 2020,The Transcription Factor TCF1 in T Cell Differentiation and Aging
+------>
+PMC7555792: 2020,Overview of Salvia miltiorrhiza as a Potential Therapeutic Agent for Various Diseases: An Update on Efficacy and Mechanisms of Action
+------>
+PMC7556270: 2020,Coix Seed Oil Exerts an Anti–Triple-Negative Breast Cancer Effect by Disrupting miR-205/S1PR1 Axis
+------>
+PMC7556286: 2020,Molecular and Functional Diversity of Distinct Subpopulations of the Stressed Insulin-Secreting Cell's Vesiculome
+------>
+PMC7564790: 2020,MicroRNAs Regulate Intestinal Immunity and Gut Microbiota for Gastrointestinal Health: A Comprehensive Review
+------>
+PMC7582793: 2020,Anti-Cancer Effects of Green Tea Epigallocatchin-3-Gallate and Coffee Chlorogenic Acid
+------>
+PMC7645330: 2020,Geniposide inhibits proliferation and induces apoptosis of diffuse large B-cell lymphoma cells by inactivating the HCP5/miR-27b-3p/MET axis
+------>
+PMC7648389: 2020,The roles of the gut microbiota–miRNA interaction in the host pathophysiology
+------>
+PMC7669467: 2020,A systematic review of the biological mechanisms linking physical activity and breast cancer
+------>
+PMC7680856: 2020,Revisiting Antiarrhythmic Drug Therapy for Atrial Fibrillation: Reviewing Lessons Learned and Redefining Therapeutic Paradigms
+------>
+PMC6989481: 2020,MicroRNA-17-92 Regulates Beta-Cell Restoration After Streptozotocin Treatment
+------>
+PMC10117826: 2021,MicroRNAs and extracellular vesicles in the gut: new host modulators of the microbiome?
+------>
+PMC8000094: 2021,Protection against Glucolipotoxicity by High Density Lipoprotein in Human PANC-1 Hybrid 1.1B4 Pancreatic Beta Cells: The Role of microRNA
+------>
+PMC8001478: 2021,Potential Role of Curcumin and Its Nanoformulations to Treat Various Types of Cancers
+------>
+PMC8001519: 2021,Garcinol—A Natural Histone Acetyltransferase Inhibitor and New Anti-Cancer Epigenetic Drug
+------>
+PMC8001769: 2021,Regulation of Long Non-Coding RNAs by Plant Secondary Metabolites: A Novel Anticancer Therapeutic Approach
+------>
+PMC8021852: 2021,Circulating miR-320a Acts as a Tumor Suppressor and Prognostic Factor in Non-small Cell Lung Cancer
+------>
+PMC8040299: 2021,Homoharringtonine inhibited breast cancer cells growth via miR-18a-3p/AKT/mTOR signaling pathway
+------>
+PMC8056028: 2021,Identification and Characterization of Osmoregulation Related MicroRNAs in Gills of Hybrid Tilapia Under Three Types of Osmotic Stress
+------>
+PMC8068902: 2021,Xylo-Oligosaccharides in Prevention of Hepatic Steatosis and Adipose Tissue Inflammation: Associating Taxonomic and Metabolomic Patterns in Fecal Microbiomes with Biclustering
+------>
+PMC8072122: 2021,Curcumin Regulates Cancer Progression: Focus on ncRNAs and Molecular Signaling Pathways
+------>
+PMC8072838: 2021,MicroRNA in Human Acute Kidney Injury: A Systematic Review Protocol
+------>
+PMC8082493: 2021,The Diarylheptanoid Curcumin Induces MYC Inhibition and Cross-Links This Oncoprotein to the Coactivator TRRAP
+------>
+PMC8084815: 2021,Anti-SASP and anti-inflammatory activity of resveratrol, curcumin and β-caryophyllene association on human endothelial and monocytic cells
+------>
+PMC8110756: 2021,Determination of a microRNA signature of protective kidney ischemic preconditioning originating from proximal tubules
+------>
+PMC8111782: 2021,Extracellular vesicle-derived miRNA as a novel regulatory system for bi-directional communication in gut-brain-microbiota axis
+------>
+PMC8120222: 2021,Targeted delivery of neural progenitor cell-derived extracellular vesicles for anti-inflammation after cerebral ischemia
+------>
+PMC8138020: 2021,Extracts from Pulsatilla patens target cancer-related signaling pathways in HeLa cells
+------>
+PMC8147955: 2021,An Innovative Synbiotic Formulation Decreases Free Serum Indoxyl Sulfate, Small Intestine Permeability and Ameliorates Gastrointestinal Symptoms in a Randomized Pilot Trial in Stage IIIb-IV CKD Patients
+------>
+PMC8148470: 2021,Intravitreal injection of anti-miRs against miR-142-3p reduces angiogenesis and microglia activation in a mouse model of laser-induced choroidal neovascularization
+------>
+PMC8151244: 2021,Epigenetic Alterations of Maternal Tobacco Smoking during Pregnancy: A Narrative Review
+------>
+PMC8151957: 2021,Role of Gut Microbiota and Probiotics in Colorectal Cancer: Onset and Progression
+------>
+PMC8155495: 2021,miR-212/132-Enriched Extracellular Vesicles Promote Differentiation of Induced Pluripotent Stem Cells Into Pancreatic Beta Cells
+------>
+PMC8168468: 2021,LncRNA Landscape of Coronary Atherosclerosis Reveals Differentially Expressed LncRNAs in Proliferation and Migration of Coronary Artery Smooth Muscle Cells
+------>
+PMC8182944: 2021,MicroRNAs as the critical regulators of cisplatin resistance in gastric tumor cells
+------>
+PMC8186666: 2021,Understanding the Impact of Uterine Fibroids on Human Endometrium Function
+------>
+PMC8200483: 2021,The Regulation of Staphylococcus aureus -Induced Inflammatory Responses in Bovine Mammary Epithelial Cells
+------>
+PMC8215145: 2021,Urolithins: The Gut Based Polyphenol Metabolites of Ellagitannins in Cancer Prevention, a Review
+------>
+PMC8230811: 2021,Lung Cancer Management with Silibinin: A Historical and Translational Perspective
+------>
+PMC8232095: 2021,MicroRNA Sequences Modulated by Beta Cell Lipid Metabolism: Implications for Type 2 Diabetes Mellitus
+------>
+PMC8239300: 2021,An EBC/Plasma miRNA Signature Discriminates Lung Adenocarcinomas From Pleural Mesothelioma and Healthy Controls
+------>
+PMC8255972: 2021,Remodeling the Epigenetic Landscape of Cancer—Application Potential of Flavonoids in the Prevention and Treatment of Cancer
+------>
+PMC8267743: 2021,Dissecting the Interplay Mechanism between Epigenetics and Gut Microbiota: Health Maintenance and Disease Prevention
+------>
+PMC8268950: 2021,Chronic Obstructive Pulmonary Disease: Epidemiology, Biomarkers, and Paving the Way to Lung Cancer
+------>
+PMC8273434: 2021,Functional miR-142a-3p Induces Apoptosis and Macrophage Polarization by Targeting tnfaip2 and glut3 in Grass Carp ( Ctenopharyngodon idella )
+------>
+PMC8287503: 2021,Extracellular Vesicles as a Means of Viral Immune Evasion, CNS Invasion, and Glia-Induced Neurodegeneration
+------>
+PMC8298863: 2021,miRNA-Based Potential Biomarkers and New Molecular Insights in Ulcerative Colitis
+------>
+PMC8301163: 2021,Addition of Olive Leaf Extract to a Mixture of Algae and Extra Virgin Olive Oils Decreases Fatty Acid Oxidation and Synergically Attenuates Age-Induced Hypertension, Sarcopenia and Insulin Resistance in Rats
+------>
+PMC8305963: 2021,MicroRNAs in Epithelial–Mesenchymal Transition Process of Cancer: Potential Targets for Chemotherapy
+------>
+PMC8307988: 2021,Epigenetic Regulation of Cannabinoid-Mediated Attenuation of Inflammation and Its Impact on the Use of Cannabinoids to Treat Autoimmune Diseases
+------>
+PMC8308570: 2021,A Crosstalk between Diet, Microbiome and microRNA in Epigenetic Regulation of Colorectal Cancer
+------>
+PMC8315965: 2021,Identification and Confirmation of the miR-30 Family as a Potential Central Player in Tobacco-Related Head and Neck Squamous Cell Carcinoma
+------>
+PMC8336336: 2021,Diet-derived transmission of MicroRNAs from host plant into honey bee Midgut
+------>
+PMC8344971: 2021,MicroRNAs as a Potential New Preventive Approach in the Transition from Asymptomatic to Symptomatic Multiple Myeloma Disease
+------>
+PMC8345981: 2021,TGF-Beta as a Master Regulator of Diabetic Nephropathy
+------>
+PMC8350386: 2021,MicroRNAs in Transforming Growth Factor-Beta Signaling Pathway Associated With Fibrosis Involving Different Systems of the Human Body
+------>
+PMC8355560: 2021,An Overview of Novel Agents for Cervical Cancer Treatment by Inducing Apoptosis: Emerging Drugs Ongoing Clinical Trials and Preclinical Studies
+------>
+PMC8372030: 2021,Recent updates on the role of extracellular vesicles in the pathogenesis of allergic asthma
+------>
+PMC8380168: 2021,Targeting miRNA by Natural Products: A Novel Therapeutic Approach for Nonalcoholic Fatty Liver
+------>
+PMC8382196: 2021,Exosomal miR-224 contributes to hemolymph microbiota homeostasis during bacterial infection in crustacean
+------>
+PMC8390279: 2021,Breed differences in the expression levels of gga-miR-222a in laying hens influenced H 2 S production by regulating methionine synthase genes in gut bacteria
+------>
+PMC8395168: 2021,Tumor-Associated Macrophages (TAMs) in Colorectal Cancer (CRC): From Mechanism to Therapy and Prognosis
+------>
+PMC8395330: 2021,Anti-Inflammatory Effect of Allicin Associated with Fibrosis in Pulmonary Arterial Hypertension
+------>
+PMC8400614: 2021,Biological Activities of Paeonol in Cardiovascular Diseases: A Review
+------>
+PMC8417943: 2021,Fusobacterium nucleatum Acts as a Pro-carcinogenic Bacterium in Colorectal Cancer: From Association to Causality
+------>
+PMC8425191: 2021,Dihydromyricetin Inhibits Tumor Growth and Epithelial-Mesenchymal Transition through regulating miR-455-3p in Cholangiocarcinoma
+------>
+PMC8440964: 2021,Non-Coding RNAs in Human Breast Milk: A Systematic Review
+------>
+PMC8442346: 2021,MicroRNA-497 induced by Clonorchis sinensis enhances the TGF-β/Smad signaling pathway to promote hepatic fibrosis by targeting Smad7
+------>
+PMC8450356: 2021,Role of Lipid Accumulation and Inflammation in Atherosclerosis: Focus on Molecular and Cellular Mechanisms
+------>
+PMC8465141: 2021,The Role of Melanoma Cell-Derived Exosomes (MTEX) and Photodynamic Therapy (PDT) within a Tumor Microenvironment
+------>
+PMC8465682: 2021,Taxifolin and Sorghum Ethanol Extract Protect against Hepatic Insulin Resistance via the miR-195/IRS1/PI3K/AKT and AMPK Signalling Pathways
+------>
+PMC8468054: 2021,Mulberry ( Morus alba L.) Fruit Extract Ameliorates Inflammation via Regulating MicroRNA-21/132/143 Expression and Increases the Skeletal Muscle Mitochondrial Content and AMPK/SIRT Activities
+------>
+PMC8469079: 2021,The Roles of the Let-7 Family of MicroRNAs in the Regulation of Cancer Stemness
+------>
+PMC8470525: 2021,Current Landscape of Non-Small Cell Lung Cancer: Epidemiology, Histological Classification, Targeted Therapies, and Immunotherapy
+------>
+PMC8470616: 2021,How Are Epigenetic Modifications Related to Cardiovascular Disease in Older Adults?
+------>
+PMC8488228: 2021,Development of Extracellular Vesicle Therapeutics: Challenges, Considerations, and Opportunities
+------>
+PMC8047476: 2021,The Molecular Pathophysiology of Psoriatic Arthritis—The Complex Interplay Between Genetic Predisposition, Epigenetics Factors, and the Microbiome
+------>
+PMC8437542: 2021,Dietary spinach reshapes the gut microbiome in an Apc-mutant genetic background: mechanistic insights from integrated multi-omics
+------>
+PMC10042769: 2022,Mechanistic understanding of the toxic effects of arsenic and warfare arsenicals on human health and environment
+------>
+PMC9000726: 2022,Nutraceutical Role of Polyphenols and Triterpenes Present in the Extracts of Fruits and Leaves of Olea europaea as Antioxidants, Anti-Infectives and Anticancer Agents on Healthy Growth
+------>
+PMC9000903: 2022,Analysis of Faecal Microbiota and Small ncRNAs in Autism: Detection of miRNAs and piRNAs with Possible Implications in Host–Gut Microbiota Cross-Talk
+------>
+PMC9001960: 2022,Differential Expression of miRNAs in Trichloroethene-Mediated Inflammatory/Autoimmune Response and Its Modulation by Sulforaphane: Delineating the Role of miRNA-21 and miRNA-690
+------>
+PMC9003099: 2022,Interplay of Walnut Consumption, Changes in Circulating miRNAs and Reduction in LDL-Cholesterol in Elders
+------>
+PMC9003525: 2022,Beneficial Effects of Bovine Milk Exosomes in Metabolic Interorgan Cross-Talk
+------>
+PMC9025702: 2022,Emerging Biomarkers for Early Detection of Chronic Kidney Disease
+------>
+PMC9027183: 2022,Natural Bioactive Compounds Targeting Histone Deacetylases in Human Cancers: Recent Updates
+------>
+PMC9036291: 2022,The Transmission of Intergenerational Epigenetic Information by Sperm microRNAs
+------>
+PMC9037439: 2022,ncRNAs and polyphenols: new therapeutic strategies for hypertension
+------>
+PMC9086398: 2022,Deletion of MicroRNA-21 Impairs Neovascularization Following Limb Ischemia: From Bedside to Bench
+------>
+PMC9091179: 2022,Epigenetic Regulations of Perineural Invasion in Head and Neck Squamous Cell Carcinoma
+------>
+PMC9096113: 2022,Berberine as a Potential Agent for the Treatment of Colorectal Cancer
+------>
+PMC9098316: 2022,Exploration of the Molecular Mechanisms of Hyssopus cuspidatus Boriss Treatment of Asthma in an mRNA-miRNA Network via Bioinformatics Analysis
+------>
+PMC9101560: 2022,Hyperoside: A Review of Its Structure, Synthesis, Pharmacology, Pharmacokinetics and Toxicity
+------>
+PMC9119779: 2022,Natural Herbal Medicine as a Treatment Strategy for Myocardial Infarction through the Regulation of Angiogenesis
+------>
+PMC9138313: 2022,The Functional Interplay between Ethylene, Hydrogen Sulfide, and Sulfur in Plant Heat Stress Tolerance
+------>
+PMC9143402: 2022,Report of Exosomes Isolated from a Human Uterine Leiomyoma Cell Line and Their Impact on Endometrial Vascular Endothelial Cells
+------>
+PMC9144884: 2022,Updated Pharmacological Effects, Molecular Mechanisms, and Therapeutic Potential of Natural Product Geniposide
+------>
+PMC9148038: 2022,The Impact of Lifestyle on Prostate Cancer: A Road to the Discovery of New Biomarkers
+------>
+PMC9149258: 2022,Esrrb Regulates Specific Feed-Forward Loops to Transit From Pluripotency Into Early Stages of Differentiation
+------>
+PMC9154092: 2022,MicroRNAs as potential indicators of the development and progression of uterine leiomyoma
+------>
+PMC9160922: 2022,Synergistic Inhibition of Pro-Inflammatory Pathways by Ginger and Turmeric Extracts in RAW 264.7 Cells
+------>
+PMC9171580: 2022,Oncogenomic Changes in Pancreatic Cancer and Their Detection in Stool
+------>
+PMC9179504: 2022,Small Extracellular Vesicles: Key Forces Mediating the Development and Metastasis of Colorectal Cancer
+------>
+PMC9179638: 2022,Sulforaphane Enhanced Proliferation of Porcine Satellite Cells via Epigenetic Augmentation of SMAD7
+------>
+PMC9181067: 2022,Caffeine and Chlorogenic Acid Combination Attenuate Early-Stage Chemically Induced Colon Carcinogenesis in Mice: Involvement of oncomiR miR-21a-5p
+------>
+PMC9182433: 2022,Andrographolide Exhibits Anticancer Activity against Breast Cancer Cells (MCF-7 and MDA-MB-231 Cells) through Suppressing Cell Proliferation and Inducing Cell Apoptosis via Inactivation of ER-α Receptor and PI3K/AKT/mTOR Signaling
+------>
+PMC9198653: 2022,A Bibliometric Analysis of Triptolide and the Recent Advances in Treating Non–Small Cell Lung Cancer
+------>
+PMC9208551: 2022,Differentially Expressed miRNAs in Ulcerative Colitis and Crohn’s Disease
+------>
+PMC9218868: 2022,Multifunctional Roles of MicroRNAs in Schistosomiasis
+------>
+PMC9227902: 2022,Anti-Cancer Effects of Dietary Polyphenols via ROS-Mediated Pathway with Their Modulation of MicroRNAs
+------>
+PMC9240199: 2022,The Emerging Roles of Human Gut Microbiota in Gastrointestinal Cancer
+------>
+PMC9245307: 2022,3,3′-Diindolylmethane improves antitumor immune responses of PD-1 blockade via inhibiting myeloid-derived suppressor cells
+------>
+PMC9251105: 2022,Curcumenol Targeting YWHAG Inhibits the Pentose Phosphate Pathway and Enhances Antitumor Effects of Cisplatin
+------>
+PMC9258743: 2022,An Exploration of Oral-Gut Pathogens Mediating Immune Escape of Pancreatic Cancer via miR-21/PTEN Axis
+------>
+PMC9266446: 2022,Potential Renal Damage Biomarkers in Alport Syndrome—A Review of the Literature
+------>
+PMC9268562: 2022,Green Tea Extract Containing Piper retrofractum Fruit Ameliorates DSS-Induced Colitis via Modulating MicroRNA-21 Expression and NF-κB Activity
+------>
+PMC9279615: 2022,Dynamics of Small Non-coding RNA Profiles and the Intestinal Microbiome of High and Low Weight Chickens
+------>
+PMC9309261: 2022,Circulating MicroRNAs as Potential Diagnostic Biomarkers for Diabetic Retinopathy: A Meta-Analysis
+------>
+PMC9316001: 2022,Anticancer Effects and Mechanisms of Berberine from Medicinal Herbs: An Update Review
+------>
+PMC9316101: 2022,Insights into the Mechanisms of Action of Proanthocyanidins and Anthocyanins in the Treatment of Nicotine-Induced Non-Small Cell Lung Cancer
+------>
+PMC9317349: 2022,Present Status, Challenges, and Prospects of Dihydromyricetin in the Battle against Cancer
+------>
+PMC9319031: 2022,A Comprehensive Review on the Benefits and Problems of Curcumin with Respect to Human Health
+------>
+PMC9319392: 2022,The New Era of Salivaomics in Dentistry: Frontiers and Facts in the Early Diagnosis and Prevention of Oral Diseases and Cancer
+------>
+PMC9321337: 2022,Impact of the Exposome on the Epigenome in Inflammatory Bowel Disease Patients and Animal Models
+------>
+PMC9324786: 2022,Randomized, Double-Blind, Placebo-Controlled Trial to Test the Effects of a Nutraceutical Combination Monacolin K-Free on the Lipid and Inflammatory Profile of Subjects with Hypercholesterolemia
+------>
+PMC9331378: 2022,Breastfeeding and Allergy Effect Modified by Genetic, Environmental, Dietary, and Immunological Factors
+------>
+PMC9345329: 2022,An Update on the Potential Application of Herbal Medicine in Promoting Angiogenesis
+------>
+PMC9352948: 2022,MicroRNA Regulation of the Environmental Impact on Adolescent Neurobehavioral Development: A Systematic Review
+------>
+PMC9357301: 2022,Systematic review of circulating MICRORNAS as biomarkers of cervical carcinogenesis
+------>
+PMC9361765: 2022,Thrombosis-related circulating miR-16-5p is associated with disease severity in patients hospitalised for COVID-19
+------>
+PMC9364735: 2022,Colon specific delivery of miR-155 inhibitor alleviates estrogen deficiency related phenotype via microbiota remodeling
+------>
+PMC9367492: 2022,Lung Cancer in the Course of COPD-Emerging Problems Today
+------>
+PMC9367895: 2022,Promising Biomarkers in Head and Neck Cancer: The Most Clinically Important miRNAs
+------>
+PMC9369847: 2022,Plants as a Source of Anticancer Agents: From Bench to Bedside
+------>
+PMC9380290: 2022,Potential mechanisms of quercetin in cancer prevention: focus on cellular and molecular targets
+------>
+PMC9384576: 2022,Large-scale transcriptomic analysis of coding and non-coding pathological biomarkers, associated with the tumor immune microenvironment of thyroid cancer and potential target therapy exploration
+------>
+PMC9396028: 2022,The role and mechanism of butyrate in the prevention and treatment of diabetic kidney disease
+------>
+PMC9406120: 2022,Plant-Derived Bioactive Compounds in Colorectal Cancer: Insights from Combined Regimens with Conventional Chemotherapy to Overcome Drug-Resistance
+------>
+PMC9406801: 2022,New Therapeutic Approaches to and Mechanisms of Ginsenoside Rg1 against Neurological Diseases
+------>
+PMC9406897: 2022,The Effect of Tobacco Smoke N -Nitrosamines, NNK and NDEA, and Nicotine, on DNA Mismatch Repair Mechanism and miRNA Markers, in Hypopharyngeal Squamous Cell Carcinoma: An In Vivo Model and Clinical Evidence
+------>
+PMC9409175: 2022,Microbiomes, Epigenomics, Immune Response, and Splicing Signatures Interplay: Potential Use of Combination of Regulatory Pathways as Targets for Malignant Mesothelioma
+------>
+PMC9414872: 2022,Fucosylated exosomal miRNAs as promising biomarkers for the diagnosis of early lung adenocarcinoma
+------>
+PMC9445883: 2022,Global research trends in atherosclerosis: A bibliometric and visualized study
+------>
+PMC9446158: 2022,Clinical applications of liquid biopsy in HPV-negative and HPV-positive head and neck squamous cell carcinoma: advances and challenges
+------>
+PMC9460694: 2022,Potential Use of Agave Genus in Neuroinflammation Management
+------>
+PMC9462457: 2022,Osteoclast-like stromal giant cells in breast cancer likely belong to the spectrum of immunosuppressive tumor-associated macrophages
+------>
+PMC9468484: 2022,Global trends in research on miRNA–microbiome interaction from 2011 to 2021: A bibliometric analysis
+------>
+PMC9478803: 2022,Curcumin against gastrointestinal cancer: A review of the pharmacological mechanisms underlying its antitumor activity
+------>
+PMC9483103: 2022,Regulatory mechanisms of tetramethylpyrazine on central nervous system diseases: A review
+------>
+PMC9490952: 2022,First characterization of PIWI-interacting RNA clusters in a cichlid fish with a B chromosome
+------>
+PMC9498506: 2022,The Related Metabolic Diseases and Treatments of Obesity
+------>
+PMC9499605: 2022,Molecular and Cellular Mechanisms of Propolis and Its Polyphenolic Compounds against Cancer
+------>
+PMC9503430: 2022,Polyphenols as Lung Cancer Chemopreventive Agents by Targeting microRNAs
+------>
+PMC9503838: 2022,Modulating Microbiota as a New Strategy for Breast Cancer Prevention and Treatment
+------>
+PMC9505063: 2022,Berberine: An Important Emphasis on Its Anticancer Effects through Modulation of Various Cell Signaling Pathways
+------>
+PMC9512245: 2022,Salvia miltiorrhiza in cancer: Potential role in regulating MicroRNAs and epigenetic enzymes
+------>
+PMC9522446: 2022,Medicinal and edible plants in the treatment of dyslipidemia: advances and prospects
+------>
+PMC9524725: 2022,Disease-associated regulation of gene expression by resveratrol: Special focus on the PI3K/AKT signaling pathway
+------>
+PMC9526628: 2022,The Role of Natural Products as Inhibitors of JAK/STAT Signaling Pathways in Glioblastoma Treatment
+------>
+PMC9540502: 2022,Cholecystectomy promotes the development of colorectal cancer by the alternation of bile acid metabolism and the gut microbiota
+------>
+PMC9542864: 2022,Extracellular vesicle miRNAs promote the intestinal microenvironment by interacting with microbes in colitis
+------>
+PMC9551313: 2022,MicroRNAs as diagnostic biomarkers for Tuberculosis: A systematic review and meta- analysis
+------>
+PMC9559303: 2022,Extracellular Vesicles in Veterinary Medicine
+------>
+PMC9564280: 2022,Does Lactobacillus Exert a Protective Effect on the Development of Cervical and Endometrial Cancer in Women?
+------>
+PMC9569736: 2022,Variation of miRNA Content in Cow Raw Milk Depending on the Dairy Production System
+------>
+PMC9572439: 2022,Holistic Integration of Omics Tools for Precision Nutrition in Health and Disease
+------>
+PMC9581320: 2022,Anti-cancer effect and potential microRNAs targets of ginsenosides against breast cancer
+------>
+PMC9592553: 2022,Lactobacillus johnsonii YH1136 plays a protective role against endogenous pathogenic bacteria induced intestinal dysfunction by reconstructing gut microbiota in mice exposed at high altitude
+------>
+PMC9600290: 2022,Microbiota and Extracellular Vesicles in Anti-PD-1/PD-L1 Therapy
+------>
+PMC9603323: 2022,TMAO Upregulates Members of the miR-17/92 Cluster and Impacts Targets Associated with Atherosclerosis
+------>
+PMC9610670: 2022,Screening and identification of miRNAs regulating Tbx4/5 genes of Pampus argenteus
+------>
+PMC9611907: 2022,Moringa oleifera Improves MAFLD by Inducing Epigenetic Modifications
+------>
+PMC9620630: 2022,Efficacy of the monocarbonyl curcumin analog C66 in the reduction of diabetes-associated cardiovascular and kidney complications
+------>
+PMC9627273: 2022,Targeting pancreatic stellate cells in chronic pancreatitis: Focus on therapeutic drugs and natural compounds
+------>
+PMC9628031: 2022,Pomegranate juice and punicalagin-mediated chemoprevention of hepatocellular carcinogenesis via regulating miR-21 and NF-κB-p65 in a rat model
+------>
+PMC9637218: 2022,Decreased expression of miR-23b is associated with poor survival of endometrial cancer patients
+------>
+PMC9637631: 2022,Protective effects and mechanism of puerarin targeting PI3K/Akt signal pathway on neurological diseases
+------>
+PMC9650353: 2022,SARS-CoV-2 RNAs are processed into 22-nt vsRNAs in Vero cells
+------>
+PMC9657345: 2022,The Role of Hypoxia-Inducible Factor-1 Alpha in Renal Disease
+------>
+PMC9657949: 2022,The Role of MicroRNAs in HER2-Positive Breast Cancer: Where We Are and Future Prospective
+------>
+PMC9659086: 2022,The Role of MicroRNAs in Dilated Cardiomyopathy: New Insights for an Old Entity
+------>
+PMC9676370: 2022,MicroRNA panels as diagnostic biomarkers for colorectal cancer: A systematic review and meta-analysis
+------>
+PMC9689624: 2022,Potential Mechanisms of Gut-Derived Extracellular Vesicle Participation in Glucose and Lipid Homeostasis
+------>
+PMC9692352: 2022,Circulating microRNA Related to Cardiometabolic Risk Factors for Metabolic Syndrome: A Systematic Review
+------>
+PMC9693256: 2022,Evidence-Based Anti-Diabetic Properties of Plant from the Occitan Valleys of the Piedmont Alps
+------>
+PMC9697193: 2022,Regulation of Cholesterol Metabolism by Phytochemicals Derived from Algae and Edible Mushrooms in Non-Alcoholic Fatty Liver Disease
+------>
+PMC9698579: 2022,Can Natural Products Targeting EMT Serve as the Future Anticancer Therapeutics?
+------>
+PMC9713074: 2022,Risk of primary osteoporosis score (RPOPs): an algorithm model for primary osteoporosis risk assessment in grass-roots hospital
+------>
+PMC9722658: 2022,Exploration of the relationship between gut microbiota and fecal microRNAs in patients with major depressive disorder
+------>
+PMC9727849: 2022,Activation of primary hepatic stellate cells and liver fibrosis induced by targeting TGF-β1/Smad signaling in schistosomiasis in mice
+------>
+PMC9729553: 2022,The chemical components, action mechanisms, and clinical evidences of YiQiFuMai injection in the treatment of heart failure
+------>
+PMC9735683: 2022,Ophiopogon Polysaccharide Liposome Regulated the Immune Activity of Kupffer Cell through miR-4796
+------>
+PMC9741225: 2022,Circulating Small Extracellular Vesicle-Derived miR-342-5p Ameliorates Beta-Amyloid Formation via Targeting Beta-site APP Cleaving Enzyme 1 in Alzheimer’s Disease
+------>
+PMC9756778: 2022,Cryptosporidium parvum regulates HCT-8 cell autophagy to facilitate survival via inhibiting miR-26a and promoting miR-30a expression
+------>
+PMC9762682: 2022,Tocotrienols: Exciting Biological and Pharmacological Properties of Tocotrienols and Naturally Occurring Compounds, Part II
+------>
+PMC9774431: 2022,Epigenetics and Gut Microbiota Crosstalk: A potential Factor in Pathogenesis of Cardiovascular Disorders
+------>
+PMC9777165: 2022,Antileukemic Activity of hsa-miR-203a-5p by Limiting Glutathione Metabolism in Imatinib-Resistant K562 Cells
+------>
+PMC9777391: 2022,Deciphering the Antifibrotic Property of Metformin
+------>
+PMC9779232: 2022,Celiac Disease and Neurological Manifestations: From Gluten to Neuroinflammation
+------>
+PMC9787707: 2022,Challenging Cellular Homeostasis: Spatial and Temporal Regulation of miRNAs
+------>
+PMC9787743: 2022,Recent Advances in Natural Polyphenol Research
+------>
+PMC9788726: 2022,The effective constituent puerarin, from Pueraria lobata , inhibits the proliferation and inflammation of vascular smooth muscle in atherosclerosis through the miR-29b-3p/IGF1 pathway
+------>
+PMC9790983: 2022,Preparation of microgel co-loaded with nuciferine and epigallocatechin-3-gallate for the regulation of lipid metabolism
+------>
+PMC9818913: 2022,Effect of SNHG11/miR-7-5p/PLCB1 Axis on Acute Pancreatitis through Inhibiting p38MAPK Pathway
+------>
+PMC9828319: 2022,miR-182-5p attenuates Schistosoma japonicum -induced hepatic fibrosis by targeting tristetraprolin
+------>
+PMC9867529: 2022,Gut Microbiota–MicroRNA Interactions in Intestinal Homeostasis and Cancer Development
+------>
+PMC9910956: 2022,Role of Gut Microbiota in Cannabinoid-Mediated Suppression of Inflammation
+------>
+PMC9258109: 2022,Syringin exerts anti-breast cancer effects through PI3K-AKT and EGFR-RAS-RAF pathways
+------>
+PMC9279364: 2022,SARS-CoV-2 potential drugs, drug targets, and biomarkers: a viral-host interaction network-based analysis
+------>
+PMC9495892: 2022,Deciphering the CircRNA-Regulated Response of Western Honey Bee ( Apis mellifera ) Workers to Microsporidian Invasion
+------>
+PMC10001986: 2023,Updating the Clinical Application of Blood Biomarkers and Their Algorithms in the Diagnosis and Surveillance of Hepatocellular Carcinoma: A Critical Review
+------>
+PMC10008701: 2023,Curcumin and its Analogs and Carriers: Potential Therapeutic Strategies for Human Osteosarcoma
+------>
+PMC10034375: 2023,Biosynthesis of anticancer phytochemical compounds and their chemistry
+------>
+PMC10045365: 2023,Zingiber officinale Roscoe Rhizome Extract Exerts Senomorphic and Anti-Inflammatory Activities on Human Endothelial Cells
+------>
+PMC10045760: 2023,MiRNAs Action and Impact on Mitochondria Function, Metabolic Reprogramming and Chemoresistance of Cancer Cells: A Systematic Review
+------>
+PMC10052204: 2023,MicroRNAs as Biomarkers of Surgical Outcome in Mesial Temporal Lobe Epilepsy: A Systematic Review
+------>
+PMC10057337: 2023,Therapeutic Potential of Luteolin on Cancer
+------>
+PMC10058679: 2023,The Applications and Potentials of Extracellular Vesicles from Different Cell Sources in Periodontal Regeneration
+------>
+PMC10094498: 2023,miR-125b-5p, miR-155-3p, and miR-214-5p and Target E2F2 Gene in Oral Squamous Cell Carcinoma
+------>
+PMC10095543: 2023,Neuroprotective Effects of Lactobacillus plantarum PS128 in a Mouse Model of Parkinson’s Disease: The Role of Gut Microbiota and MicroRNAs
+------>
+PMC10105547: 2023,Systematic review of overlapping microRNA patterns in COVID-19 and idiopathic pulmonary fibrosis
+------>
+PMC10113649: 2023,Integration of microRNA and mRNA analyses depicts the potential roles of Momordica charantia saponin administration in insulin resistance of juvenile common carp ( Cyprinus carpio ) fed with a high-starch diet
+------>
+PMC10136691: 2023,Perspective for Studying the Relationship of miRNAs with Transposable Elements
+------>
+PMC10137217: 2023,Rheumatoid Arthritis and Reactive Oxygen Species: A Review
+------>
+PMC10137629: 2023,Human Genes Involved in the Interaction between Host and Gut Microbiome: Regulation and Pathogenic Mechanisms
+------>
+PMC10138341: 2023,Tetrahydrocannabivarin (THCV) Protects Adipose-Derived Mesenchymal Stem Cells (ASC) against Endoplasmic Reticulum Stress Development and Reduces Inflammation during Adipogenesis
+------>
+PMC10138604: 2023,Intestinal Microbiota and miRNA in IBD: A Narrative Review about Discoveries and Perspectives for the Future
+------>
+PMC10143298: 2023,MicroRNAs in Age-Related Proteostasis and Stress Responses
+------>
+PMC10164968: 2023,Pharmacological effects of baicalin in lung diseases
+------>
+PMC10165025: 2023,An overview of natural products that modulate the expression of non-coding RNAs involved in oxidative stress and inflammation-associated disorders
+------>
+PMC10179484: 2023,MicroRNA Dysregulation in Early Breast Cancer Diagnosis: A Systematic Review and Meta-Analysis
+------>
+PMC10191329: 2023,XRN2 suppresses aberrant entry of tRNA trailers into argonaute in humans and Arabidopsis
+------>
+PMC10198993: 2023,Pinostrobin, a fingerroot compound, regulates miR-181b-5p and induces acute leukemic cell apoptosis
+------>
+PMC10199106: 2023,Biomarkers of hypoxic–ischemic encephalopathy: a systematic review
+------>
+PMC10202934: 2023,The deleted in oral cancer ( DOC1 aka CDK2AP1 ) tumor suppressor gene is downregulated in oral squamous cell carcinoma by multiple microRNAs
+------>
+PMC10211313: 2023,Pathophysiological mechanisms and therapeutic approaches in obstructive sleep apnea syndrome
+------>
+PMC10214274: 2023,miRNAs in the Beta Cell—Friends or Foes?
+------>
+PMC10215331: 2023,Differences in Faecal Microbiome Taxonomy, Diversity and Functional Potential in a Bovine Cohort Experimentally Challenged with Mycobacterium avium subsp. paratuberculosis (MAP)
+------>
+PMC10215510: 2023,Green Tea and Java Pepper Mixture Prevents Obesity by Increasing Energy Expenditure and Modulating Hepatic AMPK/MicroRNA-34a/370 Pathway in High-Fat Diet-Fed Rats
+------>
+PMC10216775: 2023,Effects of Co-Culture EBV-miR-BART1-3p on Proliferation and Invasion of Gastric Cancer Cells Based on Exosomes
+------>
+PMC10217999: 2023,miRNAs, Mesenchymal Stromal Cells and Major Neoplastic and Inflammatory Skin Diseases: A Page Being Written: A Systematic Review
+------>
+PMC10218560: 2023,Identifying the Soybean microRNAs Related to Phytophthora sojae Based on RNA Sequencing and Bioinformatics Analysis
+------>
+PMC10218870: 2023,Multi-Faceted Role of Luteolin in Cancer Metastasis: EMT, Angiogenesis, ECM Degradation and Apoptosis
+------>
+PMC10223436: 2023,Multifunctional Milk-Derived Small Extracellular Vesicles and Their Biomedical Applications
+------>
+PMC10227795: 2023,MiR-146a-5p delivered by hucMSC extracellular vesicles modulates the inflammatory response to sulfur mustard-induced acute lung injury
+------>
+PMC10259056: 2023,Exosomal miR-125b-5p derived from adipose-derived mesenchymal stem cells enhance diabetic hindlimb ischemia repair via targeting alkaline ceramidase 2
+------>
+PMC10264600: 2023,Molecular mechanism and research progress on pharmacology of ferulic acid in liver diseases
+------>
+PMC10267152: 2023,Cancer-associated fibroblast-derived exosome microRNA-21 promotes angiogenesis in multiple myeloma
+------>
+PMC10276611: 2023,Bladder cancer screening: The new selection and prediction model
+------>
+PMC10276617: 2023,PTPN12 down-regulated by miR-146b-3p gene affects the malignant progression of laryngeal squamous cell carcinoma
+------>
+PMC10289991: 2023,MiR-10a, miR-15a, let-7a, and let-7g expression as stress-relevant biomarkers to assess acute or chronic psychological stress and mental health in human capillary blood
+------>
+PMC10298729: 2023,Possible Effects of Uremic Toxins p-Cresol, Indoxyl Sulfate, p-Cresyl Sulfate on the Development and Progression of Colon Cancer in Patients with Chronic Renal Failure
+------>
+PMC10299321: 2023,The Effect of Sex-Specific Differences on IL-10 −/− Mouse Colitis Phenotype and Microbiota
+------>
+PMC10302664: 2023,Plant-Derived Nutraceuticals Involved in Body Weight Control by Modulating Gene Expression
+------>
+PMC10303864: 2023,Intratumoural microbiota: from theory to clinical application
+------>
+PMC10304259: 2023,Air Pollution and microRNAs: The Role of Association in Airway Inflammation
+------>
+PMC10304744: 2023,Metabolic-Associated Fatty Liver Disease and Insulin Resistance: A Review of Complex Interlinks
+------>
+PMC10307698: 2023,New insights into irritable bowel syndrome pathophysiological mechanisms: contribution of epigenetics
+------>
+PMC10308314: 2023,Microbiota and nutrition as risk and resiliency factors following prenatal alcohol exposure
+------>
+PMC10318156: 2023,Pharmacological effects and mechanisms of paeonol on antitumor and prevention of side effects of cancer therapy
+------>
+PMC10341587: 2023,Cross-Kingdom Interaction of miRNAs and Gut Microbiota with Non-Invasive Diagnostic and Therapeutic Implications in Colorectal Cancer
+------>
+PMC10341686: 2023,Inhibition of Cancer Development by Natural Plant Polyphenols: Molecular Mechanisms
+------>
+PMC10342457: 2023,The Influence of Nicotine on Trophoblast-Derived Exosomes in a Mouse Model of Pathogenic Preeclampsia
+------>
+PMC10363855: 2023,Influence of technical and maternal-infant factors on the measurement and expression of extracellular miRNA in human milk
+------>
+PMC10368693: 2023,Plasma microRNA ratios associated with breast cancer detection in a nested case–control study from a mammography screening cohort
+------>
+PMC10377888: 2023,Whole Transcriptome Analysis of Intervention Effect of Sophora subprostrate Polysaccharide on Inflammation in PCV2 Infected Murine Splenic Lymphocytes
+------>
+PMC10378041: 2023,Update in Molecular Aspects and Diagnosis of Autoimmune Gastritis
+------>
+PMC10383735: 2023,The Antiproliferative Activity of Adiantum pedatum Extract and/or Piceatannol in Phenylhydrazine-Induced Colon Cancer in Male Albino Rats: The miR-145 Expression of the PI-3K / Akt / p53 and Oct4 / Sox2 / Nanog Pathways
+------>
+PMC10399243: 2023,Non-coding RNAs and gastrointestinal cancers prognosis: an umbrella review of systematic reviews and meta-analyses of observational studies
+------>
+PMC10405800: 2023,Three specific gut bacteria in the occurrence and development of colorectal cancer: a concerted effort
+------>
+PMC10417002: 2023,Non-Coding RNAs in Oral Cancer: Emerging Roles and Clinical Applications
+------>
+PMC10458851: 2023,Enhancement of Bottle Gourd Oil Activity via Optimized Self-Dispersing Lipid Formulations (SDLFs) to Mitigate Isoproterenol-Evoked Cardiac Toxicity in Rats via Modulating BMP, MMP2, and miRNA-21 and miRNA-23a Genes’ Expression
+------>
+PMC10460013: 2023,Potential Epigenetic Effects of Human Milk on Infants’ Neurodevelopment
+------>
+PMC10475571: 2023,Emerging role of METTL3 in inflammatory diseases: mechanisms and therapeutic applications
+------>
+PMC10482111: 2023,A review of the botany, phytochemistry, traditional uses, pharmacology, toxicology, and quality control of the Astragalus memeranaceus
+------>
+PMC10483226: 2023,Standardized Polyalthia longifolia leaf extract induces the apoptotic HeLa cells death via microRNA regulation: identification, validation, and therapeutic potential
+------>
+PMC10502318: 2023,Novel biomarkers used for early diagnosis and tyrosine kinase inhibitors as targeted therapies in colorectal cancer
+------>
+PMC10517027: 2023,Oral squamous cell carcinomas: state of the field and emerging directions
+------>
+PMC10525291: 2023,CAM Model: Intriguing Natural Bioreactor for Sustainable Research and Reliable/Versatile Testing
+------>
+PMC10527829: 2023,Biomarkers in IBD: What to Utilize for the Diagnosis?
+------>
+PMC10529960: 2023,MiRNAs Expression Modulates Osteogenesis in Response to Exercise and Nutrition
+------>
+PMC10531155: 2023,Thymoquinone Potentially Modulates the Expression of Key Onco- and Tumor Suppressor miRNAs in Prostate and Colon Cancer Cell Lines: Insights from PC3 and HCT-15 Cells
+------>
+PMC10543339: 2023,Multi-omics analysis reveals the interaction of gut microbiome and host microRNAs in ulcerative colitis
+------>
+PMC10543654: 2023,Lung cancer associated with combustion particles and fine particulate matter (PM 2.5 ) - The roles of polycyclic aromatic hydrocarbons (PAHs) and the aryl hydrocarbon receptor (AhR)
+------>
+PMC10572537: 2023,MicroRNAs and Nonalcoholic Steatohepatitis: A Review
+------>
+PMC10572810: 2023,A Network Comprised of miR-15b and miR-29a Is Involved in Vascular Endothelial Growth Factor Pathway Regulation in Thymus Adipose Tissue from Elderly Ischemic Cardiomyopathy Subjects
+------>
+PMC10577955: 2023,A novel lupene derivative from Thymus capitatus possesses an apoptosis-inducing effect via Let-7 miRNA/Cyclin D1/VEGF cascade in the A549 cell line
+------>
+PMC10594787: 2023,Colitis-associated carcinogenesis: crosstalk between tumors, immune cells and gut microbiota
+------>
+PMC10595017: 2023,Sarcopenia in liver cirrhosis: perspectives from epigenetics and microbiota
+------>
+PMC10597707: 2023,Roles of microglia in adult hippocampal neurogenesis in depression and their therapeutics
+------>
+PMC10604607: 2023,MicroRNAs: Small but Key Players in Viral Infections and Immune Responses to Viral Pathogens
+------>
+PMC10604755: 2023,Therapeutic Potential of Cannabis: A Comprehensive Review of Current and Future Applications
+------>
+PMC10616286: 2023,An autocatalytic multicomponent DNAzyme nanomachine for tumor-specific photothermal therapy sensitization in pancreatic cancer
+------>
+PMC10647270: 2023,Role of Non-Coding RNAs in Hepatocellular Carcinoma Progression: From Classic to Novel Clinicopathogenetic Implications
+------>
+PMC10665742: 2023,Potential roles of circulating microRNAs in the healing of type 1 diabetic wounds treated with green tea extract: molecular and biochemical study
+------>
+PMC10671577: 2023,Unique miRomics Expression Profiles in Tannerella forsythia -Infected Mandibles during Periodontitis Using Machine Learning
+------>
+PMC10692139: 2023,Mesenchymal stem cell-derived apoptotic bodies alleviate alveolar bone destruction by regulating osteoclast differentiation and function
+------>
+PMC10697780: 2023,Mechanism and Therapeutic Prospect of miRNAs in Neurodegenerative Diseases
+------>
+PMC10706777: 2023,Major Depressive Disorder and Gut Microbiota: Role of Physical Exercise
+------>
+PMC10722201: 2023,Tanshinone IIA: a Chinese herbal ingredient for the treatment of atherosclerosis
+------>
+PMC9859449: 2023,Extracellular vesicles derived from host and gut microbiota as promising nanocarriers for targeted therapy in osteoporosis and osteoarthritis
+------>
+PMC9860614: 2023,Pulsatilla vulgaris Inhibits Cancer Proliferation in Signaling Pathways of 12 Reporter Genes
+------>
+PMC9871048: 2023,Role of Rho GTPases in inflammatory bowel disease
+------>
+PMC9884281: 2023,circRNA432 enhances the coelomocyte phagocytosis via regulating the miR-2008-ELMO1 axis in Vibrio splendidus -challenged Apostichopus japonicus
+------>
+PMC9903080: 2023,Understanding the role of the gut microbiome in gastrointestinal cancer: A review
+------>
+PMC9913572: 2023,Pancreatic Cancer in Chronic Pancreatitis: Pathogenesis and Diagnostic Approach
+------>
+PMC9914101: 2023,Diagnosis and Management of Pancreatic Cysts: A Comprehensive Review of the Literature
+------>
+PMC9916451: 2023,An Overview of Inter-Tissue and Inter-Kingdom Communication Mediated by Extracellular Vesicles in the Regulation of Mammalian Metabolism
+------>
+PMC9916827: 2023,Dietary Isothiocyanates: Novel Insights into the Potential for Cancer Prevention and Therapy
+------>
+PMC9917110: 2023,Natural Monoterpenes as Potential Therapeutic Agents against Atherosclerosis
+------>
+PMC9918127: 2023,Mechanisms Contributing to the Comorbidity of COPD and Lung Cancer
+------>
+PMC9921150: 2023,Long Non-Coding RNAs as Novel Targets for Phytochemicals to Cease Cancer Metastasis
+------>
+PMC9929482: 2023,Deficiency of miRNA-149-3p shaped gut microbiota and enhanced dextran sulfate sodium-induced colitis
+------>
+PMC9935596: 2023,Circulating biomarkers during progression to type 1 diabetes: A systematic review
+------>
+PMC9937661: 2023,Women in the field of multiple sclerosis: How they contributed to paradigm shifts
+------>
+PMC9948450: 2023,Gamma-delta T cells modulate the microbiota and fecal micro-RNAs to maintain mucosal tolerance
+------>
+PMC9953173: 2023,Biological and Genetic Mechanisms of COPD, Its Diagnosis, Treatment, and Relationship with Lung Cancer
+------>
+PMC9956047: 2023,Malignancies in Patients with Celiac Disease: Diagnostic Challenges and Molecular Advances
+------>
+PMC9957306: 2023,Cardiotoxicity of Electronic Cigarettes and Heat-Not-Burn Tobacco Products—A Problem for the Modern Pediatric Cardiologist
+------>
+PMC9958838: 2023,The Epigenetic Effects of Coffee
+------>
+PMC9959828: 2023,Head and Neck Cancer Patients’ Survival According to HPV Status, miRNA Profiling, and Tumour Features—A Cohort Study
+------>
+PMC9962422: 2023,Curcumin a Natural Phenol and Its Therapeutic Role in Cancer and Photodynamic Therapy: A Review
+------>
+PMC9963913: 2023,Role of the MicroRNAs in the Pathogenic Mechanism of Painful Symptoms in Long COVID: Systematic Review
+------>
+PMC9965280: 2023,Gut Molecules in Cardiometabolic Diseases: The Mechanisms behind the Story
+------>
+PMC9966707: 2023,Diagnostic and Prognostic Value of microRNAs in Patients with Laryngeal Cancer: A Systematic Review
+------>
+PMC9966867: 2023,Effect of Pesticide Exposure over DNA Damage in Farmers from Los Reyes, Michoacan in Mexico
+------>
+PMC9972639: 2023,A short peptide exerts neuroprotective effects on cerebral ischemia–reperfusion injury by reducing inflammation via the miR-6328/IKKβ/NF-κB axis
+------>
+PMC9974274: 2023,Hispidin Inhibits Ferroptosis Induced by High Glucose via the miR-15b-5p/GLS2 Axis in Pancreatic Beta Cells
+------>
+PMC10377276: 2023,Biomarkers for Hepatocellular Carcinoma: From Origin to Clinical Diagnosis
+------>
+PMC9870314: 2023,The role of Th17 cells in inflammatory bowel disease and the research progress
+------>
+PMC10464192: 2023,3,3′-Diindolylmethane and indole-3-carbinol: potential therapeutic molecules for cancer chemoprevention and treatment via regulating cellular signaling pathways
+------>
+PMC9856807: 2023,Epigenetics of Thymic Epithelial Tumors
+------>
+PMC9917289: 2023,The Role of the Gut Microbiome and Trimethylamine Oxide in Atherosclerosis and Age-Related Disease
+------>

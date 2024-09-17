@@ -1,0 +1,300 @@
+PMC9146705
+Epigenetic Profiling in the Saliva of Obese Pregnant Women
+Word: "Bete" was wrongly taken as tax synonym
+PMC8001769
+Regulation of Long Non-Coding RNAs by Plant Secondary Metabolites: A Novel Anticancer Therapeutic Approach
+good
+PMC5395297
+A team of heterochromatin factors collaborates with small RNA pathways to combat repetitive elements and germline stress
+It is on small RNA instead of miRNA: should I delete synonym small RNA from the list?
+PMC5979386
+Identification of Blueberry miRNAs and Their Targets Based on High-Throughput Sequencing and Degradome Analyses
+good
+PMC8084815
+Anti-SASP and anti-inflammatory activity of resveratrol, curcumin and β-caryophyllene association on human endothelial and monocytic cells
+good
+PMC8167712
+Global Analysis of RNA-Dependent RNA Polymerase-Dependent Small RNAs Reveals New Substrates and Functions for These Proteins and SGS3 in Arabidopsis
+good
+PMC4663621
+Tomato (Lycopersicon esculentum) Supplementation Induces Changes in Cardiac miRNA Expression, Reduces Oxidative Stress and Left Ventricular Mass, and Improves Diastolic Function
+good
+PMC9695887
+Gma-miR408 Enhances Soybean Cyst Nematode Susceptibility by Suppressing Reactive Oxygen Species Accumulation
+good
+PMC7278087
+GreenCircRNA: a database for plant circRNAs that act as miRNA decoys
+good, but the database is not available any more
+PMC9444189
+Ginsenoside Rd inhibits migration and invasion of tongue cancer cells through H19/miR-675-5p/CDH1 axis
+no miRNA from plants was studied
+PMC4634154
+Transcriptome, microRNA, and degradome analyses of the gene expression of Paulownia with phytoplamsa
+good
+PMC6449929
+Comprehensive analysis of miRNA profiles reveals the role of Schistosoma japonicum miRNAs at different developmental stages
+good
+PMC4059649
+Genome-Wide Identification and Characterization of Long Intergenic Non-Coding RNAs in Ganoderma lucidum
+good
+PMC10525196
+Chiisanoside Mediates the Parkin/ZNF746/PGC-1α Axis by Downregulating MiR-181a to Improve Mitochondrial Biogenesis in 6-OHDA-Caused Neurotoxicity Models In Vitro and In Vivo: Suggestions for Prevention of Parkinson’s Disease
+good
+PMC3617097
+Release of Luminal Exosomes Contributes to TLR4-Mediated Epithelial Antimicrobial Defense
+good
+PMC9871932
+NTR1 is involved in heat stress tolerance through mediating expression regulation and alternative splicing of heat stress genes in Arabidopsis
+good
+PMC6181382
+MicroRNA and mRNA expression associated with ectopic germinal centers in thymus of myasthenia gravis
+good
+PMC9636151
+Chromosome-scale assemblies of the male and female Populus euphratica genomes reveal the molecular basis of sex determination and sexual dimorphism
+good, new microRNA were defined, but information is only accessible in the supplements
+PMC7337485
+Sertoli-Leydig cell tumor in two siblings with DICER1 syndrome
+no miRNA from plants were studied
+PMC9254010
+Spatiotemporal Regulation of a Single Adaptively Evolving Trans-Regulatory Element Contributes to Spermatogenetic Expression Divergence in Drosophila
+D.simulans --> Dysphania simulans in the taxonomy but Drosophila simulans in the paper =(
+PMC8151262
+Topical Application of Double-Stranded RNA Targeting 2b and CP Genes of Cucumber mosaic virus Protects Plants against Local and Systemic Viral Infection
+good
+PMC4139812
+Paeonol Suppresses Chondrosarcoma Metastasis through Up-Regulation of miR-141 by Modulating PKCδ and c-Src Signaling Pathway
+good
+PMC9147109
+Mentha pulegium L. (Pennyroyal, Lamiaceae) Extracts Impose Abortion or Fetal-Mediated Toxicity in Pregnant Rats; Evidenced by the Modulation of Pregnancy Hormones, MiR-520, MiR-146a, TIMP-1 and MMP-9 Protein Expressions, Inflammatory State, Certain Related Signaling Pathways, and Metabolite Profiling via UPLC-ESI-TOF-MS
+good
+PMC6688120
+Redox Balance-DDR-miRNA Triangle: Relevance in Genome Stability and Stress Responses in Plants
+good
+PMC9928184
+tRNA-derived small RNAs in plant response to biotic and abiotic stresses
+good
+PMC10183032
+Role of the gut microbiota in anticancer therapy: from molecular mechanisms to clinical applications
+anti-cancer, no miRNA from plants
+PMC6524340
+Prenatal epigenetics diets play protective roles against environmental pollution
+no miRNA from plants
+PMC2904775
+Viral Protein Inhibits RISC Activity by Argonaute Binding through Conserved WG/GW Motifs
+no miRNA from plants, instead miRNA from a virus called Sweet potato mild mottle virus was studied.
+PMC5113073
+Doxycycline, metronidazole and isotretinoin: Do they modify microRNA/mRNA expression profiles and function in murine T-cells?
+no plant miRNA, plants were used to feed mice
+PMC9484463
+A microRNA–microRNA crosstalk network inferred from genome-wide single nucleotide polymorphism variants in natural populations of Arabidopsis thaliana
+good
+PMC4594918
+Identification and characterization of a maize-associated mastrevirus in China by deep sequencing small RNA populations
+Again, Sweetpotato symptomless virus
+PMC3574835
+Description of plant tRNA-derived RNA fragments (tRFs) associated with argonaute and identification of their putative targets
+good, but only one miRNA was studied --- not much information
+PMC9224169
+Action Mechanisms of Effectors in Plant-Pathogen Interaction
+not miRNA in plants
+PMC5987159
+A Novel LncRNA, MuLnc1, Associated With Environmental Stress in Mulberry (Morus multicaulis)
+good
+PMC10218541
+Small RNA Profiling of Aster Yellows Phytoplasma-Infected Catharanthus roseus Plants Showing Different Symptoms
+good
+PMC9508072
+Pairwise genetic meta-analyses between schizophrenia and substance dependence phenotypes reveals novel association signals with pharmacological significance
+good
+PMC7316969
+Molecular bases of responses to abiotic stress in trees
+good, but not much on miRNA
+PMC7038979
+Widespread roles for piRNAs and WAGO-class siRNAs in shaping the germline transcriptome of Caenorhabditis elegans
+about all small RNAs --- not much on miRNA
+PMC9201817
+The Ups and Downs of Plant NLR Expression During Pathogen Infection
+good
+PMC4981961
+Identification of conserved and novel microRNAs in Porphyridium purpureum via deep sequencing and bioinformatics
+good
+PMC10644886
+Plant long non-coding RNAs: identification and analysis to unveil their physiological functions
+good
+PMC3511302
+Identifying Conserved and Novel MicroRNAs in Developing Seeds of Brassica napus Using Deep Sequencing
+good
+PMC7669467
+A systematic review of the biological mechanisms linking physical activity and breast cancer
+no plant miRNA -- only miRNA from human
+PMC9698747
+Genome-Scale Investigation of GARP Family Genes Reveals Their Pivotal Roles in Nutrient Stress Resistance in Allotetraploid Rapeseed
+good
+PMC6651970
+Expression analysis of Argonaute genes in maize (Zea mays L.) in response to abiotic stress
+good
+PMC8245511
+Dynamic changes in transposable element and gene methylation in mulberry (Morus notabilis) in response to Botrytis cinerea
+not microRNA, only small RNA
+PMC10219373
+CRISPR-Mediated In Situ Introduction or Integration of F9-Padua in Human iPSCs for Gene Therapy of Hemophilia B
+no research on plant, synonym word: "codon", was wrongly accepted
+PMC5778186
+Structure, target-specificity and expression of PN_LNC_N13, a long non-coding RNA differentially expressed in apomictic and sexual Paspalum notatum
+good, but no specific miRNA was studied
+PMC10668852
+Multi-Omics Analysis of the Mechanism of Mentha Haplocalyx Briq on the Growth and Metabolic Regulation of Fattening Sheep
+good
+PMC3424422
+RNA trafficking in parasitic plant systems
+good
+PMC3587635
+De novo Transcriptome Sequencing Reveals a Considerable Bias in the Incidence of Simple Sequence Repeats towards the Downstream of ‘Pre-miRNAs’ of Black Pepper
+good
+PMC9252504
+Evolution and origin of bread wheat
+good, only one miRNA was studied
+PMC6956827
+Xuebijing Injection Maintains GRP78 Expression to Prevent Candida albicans–Induced Epithelial Death in the Kidney
+no plant miRNA
+PMC6218197
+Circulating miRNA measurements are reflective of cholesterol-based changes in rainbow trout (Oncorhynchus mykiss)
+good
+PMC4977847
+Role of plant MicroRNA in cross-species regulatory networks of humans
+good
+PMC5788517
+Repressive Chromatin in Caenorhabditis elegans: Establishment, Composition, and Function
+only small RNA, no miRNA
+PMC10295926
+Microglia NLRP3 Inflammasome and Neuroimmune Signaling in Substance Use Disorders
+no plant miRNA
+PMC7614883
+Epigenetic inheritance of gene-silencing is maintained by a self-tuning mechanism based on resource competition
+small RNA instead of microRNA
+PMC4501690
+The Discovery, Distribution, and Evolution of Viruses Associated with Drosophila melanogaster
+virus miRNAs were studied, and their names contain words such as: Rosy Apple Aphid Virus
+PMC9010791
+Integrated Analysis of Physiological, mRNA Sequencing, and miRNA Sequencing Data Reveals a Specific Mechanism for the Response to Continuous Cropping Obstacles in Pogostemon cablin Roots
+good
+PMC6139297
+Small RNAs, emerging regulators critical for the development of horticultural traits
+good
+PMC9283533
+Key regulatory pathways, microRNAs, and target genes participate in adventitious root formation of Acer rubrum L
+good
+PMC7446667
+Black Lives Matter Worldwide: Retooling Precision Oncology for True Equity of Cancer Care
+it didn't mention any plant, but the author's name of the paper the cited multiple times is Carrot-Zhang
+PMC8472689
+Salt and Drought Stress Responses in Cultivated Beets (Beta vulgaris L.) and Wild Beet (Beta maritima L.)
+good
+PMC10248010
+Feeding the gut microbiome: impact on multiple sclerosis
+no plant miRNA, only plant in diet
+PMC6785634
+Argonaute Proteins: Why Are They So Important for the Legume–Rhizobia Symbiosis?
+good
+PMC7582793
+Anti-Cancer Effects of Green Tea Epigallocatchin-3-Gallate and Coffee Chlorogenic Acid
+anti-cancer, no plant miRNA
+PMC5976672
+Combining micro-RNA and protein sequencing to detect robust biomarkers for Graves’ disease and orbitopathy
+good
+PMC10767074
+Genome-wide in-silico analysis of ethylene biosynthesis gene family in Musa acuminata L. and their response under nutrient stress
+good
+PMC5658190
+Rice stripe virus NS3 protein regulates primary miRNA processing through association with the miRNA biogenesis factor OsDRB1 and facilitates virus infection in rice
+good
+PMC7132054
+Full-length transcriptome sequencing provides insights into the evolution of apocarotenoid biosynthesis in Crocus sativus
+good
+PMC3353893
+The mir-51 Family of microRNAs Functions in Diverse Regulatory Pathways in Caenorhabditis elegans
+good
+PMC10064030
+Dysbiosis in gastrointestinal pathophysiology: Role of the gut microbiome in Gulf War Illness
+only one miRNA was mentioned in mice
+PMC6708903
+Identification of microRNA biomarkers in atrial fibrillation
+good
+PMC9290239
+MicroRNA-mediated host defense mechanisms against pathogens and herbivores in rice: balancing gains from genetic resistance with trade-offs to productivity potentia
+good
+PMC7154908
+Genome-Wide Identification and Expression Profile Analysis of the NF-Y Transcription Factor Gene Family in Petunia hybrida
+good
+PMC4290414
+What determines a leaf's shape?
+good
+PMC3409120
+Identification and Characterization of Argonaute Protein, Ago2 and Its Associated Small RNAs in Schistosoma japonicum
+miRNA from parasite were studied
+PMC6292928
+RETRACTED: Neuroprotective Effects of Ginsenoside-Rg1 Against Depression-Like Behaviors via Suppressing Glial Activation, Synaptic Deficits, and Neuronal Apoptosis in Rats
+retracted
+PMC7272390
+Astragaloside IV protects human cardiomyocytes from hypoxia/reoxygenation injury by regulating miR-101a
+no plant miRNAs
+PMC9756778
+Cryptosporidium parvum regulates HCT-8 cell autophagy to facilitate survival via inhibiting miR-26a and promoting miR-30a expression
+parasitic miRNA
+PMC9456493
+A Combination of a Genome-Wide Association Study and a Transcriptome Analysis Reveals circRNAs as New Regulators Involved in the Response to Salt Stress in Maize
+good
+PMC4737150
+Regulation of mammalian transcription and splicing by Nuclear RNAi
+no plant miRNA
+PMC4718560
+Seed Transmission of Soybean vein necrosis virus: The First Tospovirus Implicated in Seed Transmission
+only small RNA
+PMC6580615
+Differentially expressed mRNAs, proteins and miRNAs associated to energy metabolism in skeletal muscle of beef cattle identified for low and high residual feed intake
+plant in diet
+PMC9788111
+The Re-Localization of Proteins to or Away from Membranes as an Effective Strategy for Regulating Stress Tolerance in Plants
+good
+PMC5587677
+RNA Sequencing and Co-expressed Long Non-coding RNA in Modern and Wild Wheats
+good
+PMC5066498
+Analysis of high iron rice lines reveals new miRNAs that target iron transporters in roots
+good
+PMC9498042
+The Diagnostic Value of Circulating Biomarkers and Role of Drug-Coated Balloons for In-Stent Restenosis in Patients with Peripheral Arterial Disease
+anti-disease, no plant miRNA
+PMC4826884
+Characterization of innate immunity genes in the parasitic nematode Brugia malayi
+parasitic, no plant miRNA
+PMC8484014
+Concerted genomic and epigenomic changes accompany stabilization of Arabidopsis allopolyploids
+small RNA instead of miRNA
+PMC10689555
+Non-retroviral Endogenous Viral Elements in Tephritid Fruit Flies Reveal Former Viral Infections Not Related to Known Circulating Viruses
+small RNA
+PMC7042557
+Antioxidant Effects and Mechanisms of Medicinal Plants and Their Bioactive Compounds for the Prevention and Treatment of Type 2 Diabetes: An Updated Review
+anti-disease, no plant miRNA
+PMC4011052
+Analysis of Wheat Prolamins, the Causative Agents of Celiac Sprue, Using Reversed Phase High Performance Liquid Chromatography (RP-HPLC) and Matrix-Assisted Laser Desorption Ionization Time of Flight Mass Spectrometry (MALDI-TOF-MS)
+artificial micro RNAs
+PMC3214924
+Identification of novel maize miRNAs by measuring the precision of precursor processing
+good
+PMC5707911
+Field-grown miR156 transgenic switchgrass reproduction, yield, global gene expression analysis, and bioconfinement
+good
+PMC2270843
+Conservation and divergence of microRNAs in Populus
+good
+PMC4115173
+MiR171h restricts root symbioses and shows like its target NSP2 a complex transcriptional regulation in Medicago truncatula
+good
+PMC5053029
+Characterization of virus-derived small interfering RNAs in Apple stem grooving virus-infected in vitro-cultured Pyrus pyrifolia shoot tips in response to high temperature treatment
+siRNA instead of miRNA
+PMC9998948
+Transposable element and host silencing activity in gigantic genomes
+no plant miRNA: R.sibiricus: Rumex sibiricus and Ranodon sibiricus

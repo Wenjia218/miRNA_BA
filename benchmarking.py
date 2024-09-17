@@ -2,7 +2,7 @@
 # PMCID, Value, if tax in topic/abstract, if tax > 3, if FORM in topic/abstract, if FORM > 3 times, all found syns and positions.....
 
 plant_papers = {}
-filename = 'textmining_resutls/unique_tax_itis.txt'
+filename = 'textmining_results/unique_tax_itis.txt'
 f = open(filename, encoding="utf-8")
 lines = f.readlines()
 for line in lines:
@@ -16,7 +16,7 @@ for line in lines:
         plant_papers[PMC] = line2.split("count")[0]
 
 FORM_papers = {}
-with open('textmining_resutls/unique_FORM_withallwords.txt', 'r') as f:
+with open('textmining_results/unique_FORM_withallwords.txt', 'r') as f:
     lines = f.readlines()
     for line in lines:
         list = line.split(" ")
@@ -32,16 +32,19 @@ with open('textmining_resutls/unique_FORM_withallwords.txt', 'r') as f:
 list_PMCIDs = []
 
 while True:
-    print('Enter PMCID: print "end" to end script')
+    print('Enter PMCID or multiple PMCID split by ,: print "end" to end input')
     PMCID = input()
     if PMCID == "end":
         break
     elif PMCID.startswith("PMC"):
-        list_PMCIDs.append(PMCID)
+        if len(PMCID.split(",")) == 1:
+            list_PMCIDs.append(PMCID)
+        else:
+            for PMC in PMCID.split(","):
+                list_PMCIDs.append(PMC)
     else:
         print("Wrong input")
 
-all_PMCS = []
 
 plant_lines = {}
 if_tax_topic_abstract = {}
@@ -49,7 +52,6 @@ if_tax_bigger_three = {}
 for PMC in plant_papers:
     for PMC2 in list_PMCIDs:
         if PMC == PMC2:
-            all_PMCS.append(PMC)
             plant_lines[PMC] = plant_papers[PMC]
             if int(plant_papers[PMC].split(",")[0].split("|")[1][0]) < 3:
                 if_tax_topic_abstract[PMC] = True
@@ -67,8 +69,6 @@ if_FORM_bigger_three = {}
 for PMC in FORM_papers:
     for PMC2 in list_PMCIDs:
         if PMC == PMC2:
-            if PMC not in all_PMCS:
-                all_PMCS.append(PMC)
             FORM_lines[PMC] = FORM_papers[PMC]
             if int(FORM_papers[PMC].split(",")[0].split("|")[1][0]) < 3:
                 if_FORM_topic_abstract[PMC] = True
@@ -83,7 +83,7 @@ import csv
 
 with open('benchmarking.csv', 'w', newline='') as csvfile:
     spamwriter = csv.writer(csvfile, delimiter=' ')
-    for PMC in all_PMCS:
+    for PMC in list_PMCIDs:
         write_list = []
         write_list.append(PMC + ",")
         write_list.append("unknown" + ",")
@@ -103,6 +103,8 @@ with open('benchmarking.csv', 'w', newline='') as csvfile:
             write_list.append(plant_lines[PMC].replace("|", "") + ",")
         if PMC in FORM_lines:
             write_list.append(FORM_lines[PMC].replace("|", "") + ",")
+
+        print(write_list)
         spamwriter.writerow(write_list)
 
 

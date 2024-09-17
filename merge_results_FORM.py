@@ -27,7 +27,7 @@ for file in files3:
 
             FORM_counts[PMC] = counts
 
-with open('textmining_resutls/unique_FORM_withallwords.txt', 'w') as f:
+with open('textmining_results/unique_FORM_withallwords.txt', 'w') as f:
     for PMC in FORM_dic:
         f.write(PMC + " " + FORM_dic[PMC] + " counts: " + str(FORM_counts[PMC]))
         f.write('\n')

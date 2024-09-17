@@ -1,7 +1,7 @@
 FORM_counts = {}
 FORM_positions = {}
 PMC_lines = {}
-with open('textmining_resutls/unique_FORM_withallwords.txt', 'r') as f:
+with open('textmining_results/unique_FORM_withallwords.txt', 'r') as f:
     lines = f.readlines()
     for line in lines:
         PMC = line.split(" ")[0]
@@ -19,7 +19,7 @@ for PMC in FORM_counts:
         bigger_than_3.append(PMC_lines[PMC])
 
 
-with open('textmining_resutls/unique_FORM_count_bigger_than_3', 'w') as f:
+with open('textmining_results/unique_FORM_count_bigger_than_3', 'w') as f:
     for line in bigger_than_3:
         f.write(line)
 
@@ -29,6 +29,6 @@ for PMC in FORM_counts:
         topic_abstract.append(PMC_lines[PMC])
 
 
-with open('textmining_resutls/unique_FORM_in_topic_or_abstract', 'w') as f:
+with open('textmining_results/unique_FORM_in_topic_or_abstract', 'w') as f:
     for line in topic_abstract:
         f.write(line)

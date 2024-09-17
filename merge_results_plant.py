@@ -26,7 +26,7 @@ for file in files:
 
             plant_counts[PMC] = counts
 
-with open('textmining_resutls/unique_tax_withallwords.txt', 'w') as f:
+with open('textmining_results/unique_tax_withallwords.txt', 'w') as f:
     for PMC in plant_dic:
         f.write(PMC + " " + plant_dic[PMC] + " counts: " + str(plant_counts[PMC]))
         f.write('\n')

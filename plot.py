@@ -1,38 +1,33 @@
 
+import matplotlib.pyplot as plt
+import numpy as np
 
-counts = {}
-filename = 'myresults/db_plant_FORM.txt'
+counts1 = {}
+filename = 'syn/ncbitaxon.33090.syn'
 f = open(filename, encoding="utf-8")
 lines = f.readlines()
 for line in lines:
-    list = line.split(": ")
+    list = line.split(":")
     PMC = list[0]
-    count = len(list[1].split(","))
-    counts[PMC] = count
+    count = len(list[1].split("|"))
+    counts1[PMC] = count
 
 
-def get_key(val, my_dict):
-    for key, value in my_dict.items():
-        if val == value:
-            return key
-
-    return "key doesn't exist"
-
-
-top_10 = sorted(counts.values(), reverse=True)[0:19]
-top_10_keys = []
-for value in top_10:
-    top_10_keys.append(get_key(value, counts))
-
-print(top_10)
-print(top_10_keys)
+counts2 = {}
+filename = 'syn/ncbitaxon.33090_itis.syn'
+f = open(filename, encoding="utf-8")
+lines = f.readlines()
+for line in lines:
+    list = line.split(":")
+    PMC = list[0]
+    count = len(list[1].split("|"))
+    counts2[PMC] = count
 
 
-
-'''
-plt.hist(counts.values(), bins=100, edgecolor='black')
-plt.title('frequency of tax syns in papers')
-plt.xlabel('counts with log')
-plt.ylabel('Frequency')
+plt.hist(counts1.values(), color='red', bins=80, alpha=0.65)
+plt.hist(counts2.values(), color='deepskyblue', bins=80, alpha=0.65)
+plt.title('frequency of counts of synonyms of each objetct')
+plt.xlabel('counts of synonyms')
+plt.ylabel('Frequency with log')
+plt.yscale('log')
 plt.show()
-'''

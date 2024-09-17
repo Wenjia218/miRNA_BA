@@ -26,7 +26,7 @@ for file in files2:
 
             mirna_counts[PMC] = counts
 
-with open('textmining_resutls/unique_mir_withallwords.txt', 'w') as f:
+with open('textmining_results/unique_mir_withallwords.txt', 'w') as f:
     for PMC in mirna_dic:
         f.write(PMC + " " + mirna_dic[PMC] + " counts: " + str(mirna_counts[PMC]))
         f.write('\n')

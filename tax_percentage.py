@@ -1,7 +1,7 @@
 
 '''
 # for producing the file without position and counts
-filename = "textmining_resutls/filtered_mirtax_in_titel_abstract.txt"
+filename = "textmining_results/filtered_mirtax_in_titel_abstract.txt"
 unique_tax = {}
 f = open(filename, encoding="utf-8")
 lines = f.readlines()
@@ -17,7 +17,7 @@ for line in lines:
         taxs.append(item.split("|")[0] + ",")
     unique_tax[PMC] = ''.join(taxs)[:-1]
 
-with open('textmining_resutls/filtered_tax_noCount.txt', 'w', encoding="utf-8") as f:
+with open('textmining_results/filtered_tax_noCount.txt', 'w', encoding="utf-8") as f:
     for PMC in unique_tax:
         f.write(PMC + ": " + unique_tax[PMC] + "\n")
 
@@ -32,7 +32,7 @@ def dic_to_line(dic):
 
 
 percentages_of_paper = {}
-filename = "textmining_resutls/filtered_tax_noCount.txt"
+filename = "textmining_results/filtered_tax_noCount.txt"
 f = open(filename, encoding="utf-8")
 lines = f.readlines()
 for line in lines:
@@ -61,6 +61,6 @@ for line in lines:
     percentages_of_paper[PMC] = str_percentages
 
 
-with open('textmining_resutls/filtered_tax_percentage.txt', 'w', encoding="utf-8") as f:
+with open('textmining_results/filtered_tax_percentage.txt', 'w', encoding="utf-8") as f:
     for PMC in percentages_of_paper:
         f.write(PMC + ": " + percentages_of_paper[PMC] + "\n")

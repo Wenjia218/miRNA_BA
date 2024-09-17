@@ -1,6 +1,6 @@
 
 plant_papers = {}
-filename = 'textmining_resutls/unique_tax_count_bigger_than_1.txt'
+filename = 'textmining_results/unique_tax_count_bigger_than_1.txt'
 f = open(filename, encoding="utf-8")
 
 list_of_plants = []

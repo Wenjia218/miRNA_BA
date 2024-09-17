@@ -45,9 +45,9 @@ def remove_duplicate_columns(parts):
 
 
 
-input_file = 'textmining_resutls/unique_tax_itis.txt'
+input_file = 'textmining_results/unique_tax_itis_in_topic'
 output_file_template = 'processed_file_part{}.txt'  # Template for output files with numbering
-final_output_file = 'final_merged_output.txt'  # Final merged output file
+final_output_file = 'myresults/db_alltax_in_topic.txt'  # Final merged output file
 
 processed_rows = []
 word_to_pmcs = defaultdict(list)

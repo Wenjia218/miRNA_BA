@@ -81,7 +81,7 @@ for seq in list_of_sequences:
 
 # add PMC to the database
 PMC_dic = {}
-with open('textmining_resutls/unique_results2_withallwords.txt') as f:
+with open('textmining_results/unique_results2_withallwords.txt') as f:
     lines = f.readlines()
     for line in lines:
         list = line.split(" ")
