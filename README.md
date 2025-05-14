@@ -1,4 +1,11 @@
+# Analysis of plant miRNAs with text mining
+This is the repository for the bachelor thesis of Wenjia Zhong. Text mining methods were used to extract valuable data from publications.
+The project is mainly down by python, some of the plots were done using R and ITOL. 
 
+
+
+
+# Pipeline of text mining and visualization of results
 create_mirsyn.py    create synonym list of miRNAs names and sequences from the miRNA databases
 #python3 create_mirsyn.py -mb 'data/mature.fa' -mg 'data/ALL.fas' -p 'data/all_plant_mirnas.txt'
 #the synonym list is called no3p5p, because each miRNA name without suffix is added in order to capture all possible miRNA names in textmining
